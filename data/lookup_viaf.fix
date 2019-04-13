@@ -1,0 +1,33 @@
+# VIAF API https://platform.worldcat.org/api-explorer/apis/VIAF
+
+# only if contributor exists
+if exists(dc_contributor)
+
+    # iterate over all contributor values
+    # varibale 'current' is the current contributor
+    do list(path:dc_contributor, var:current)
+
+        # a lookup.query variable saves the current name
+        copy_field(current,lookup.query)
+
+        # let Catmandu make the request to JSON API and store results in lookup.viaf variable
+        get_json("http://viaf.org/viaf/AutoSuggest?query={query}", path: lookup.viaf, vars: lookup)
+
+        # on success lookup.viaf.result should be a list 
+        if exists(lookup.viaf.result.0)
+
+            # check if we got a satisfying score
+            if greater_than(lookup.viaf.result.0.score,1000)
+
+                # prepend base URL to VIAF ID
+                prepend(lookup.viaf.result.0.viafid,'https://viaf.org/viaf/')
+
+                # append VIAF URI to a new dct_contributor field
+                copy_field(lookup.viaf.result.0.viafid,dct_contributor.$append)
+            end       
+        end
+
+        # delete temporary lookup variable
+        remove_field(lookup)
+    end
+end

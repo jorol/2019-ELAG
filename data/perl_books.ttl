@@ -1,0 +1,2287 @@
+<http://my.perl.books/record/022361960> <http://purl.org/dc/elements/1.1/contributor> "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1992" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-937175-64-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, Calif. : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming perl" .
+<http://my.perl.books/record/066651433> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-48-3> ;
+	<http://purl.org/dc/elements/1.1/language> "   " ;
+	<http://purl.org/dc/elements/1.1/publisher> "K\u00F6ln : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/074135457> <http://purl.org/dc/elements/1.1/contributor> "Schilli, Michael" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1378-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Addison-Wesley-Longman" ;
+	<http://purl.org/dc/elements/1.1/title> "Go to Perl 5" .
+<http://my.perl.books/record/074193996> <http://purl.org/dc/elements/1.1/contributor> "Kabir, Mohammed J." ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-0554-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : mitp-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Die Apache-Administration-Bibel" .
+<http://my.perl.books/record/074194623> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-286-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "The Perl CD bookshelf" .
+<http://my.perl.books/record/079538118> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-140-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-Kochbuch" .
+<http://my.perl.books/record/079561594> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-48-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/083441808> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00032-5> ;
+	<http://purl.org/dc/elements/1.1/language> "   " ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 pocket reference" .
+<http://my.perl.books/record/083500081> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-144-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/083671366> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00027-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming Perl" .
+<http://my.perl.books/record/090022203> <http://purl.org/dc/elements/1.1/contributor> "Quigley, Ellie" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-9505-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Prentice Hall" ;
+	<http://purl.org/dc/elements/1.1/title> "Beispielhaft in Perl programmieren" .
+<http://my.perl.books/record/120844729> <http://purl.org/dc/elements/1.1/contributor> "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1991" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-937175-64-4>, <urn:isbn:978-3-446-17257-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Hanser [u.a.]" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren in perl" .
+<http://my.perl.books/record/123707633> <http://purl.org/dc/elements/1.1/contributor> "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1993" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-937175-64-4>, <urn:isbn:978-3-446-17257-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Hanser [u.a.]" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren in Perl" .
+<http://my.perl.books/record/131810715> <http://purl.org/dc/elements/1.1/contributor> "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1993" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-042-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, Calif. : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/165405821> <http://purl.org/dc/elements/1.1/contributor> "Quigley, Ellie" ;
+	<http://purl.org/dc/elements/1.1/date> "1995" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-122839-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Englewood Cliffs : Prentice Hall" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "PERL by example [learn the new language of choice for UNIX users, system administrators, and programmers]" .
+<http://my.perl.books/record/17259703X> <http://purl.org/dc/elements/1.1/contributor> "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1994" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-042-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, Calif. : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.43" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/183725506> <http://purl.org/dc/elements/1.1/contributor> "Obermayr, Karl", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1995" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-08-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : O'Reilly/International Thomson" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/194723658> <http://purl.org/dc/elements/1.1/contributor> "Glover, Mike", "Humphreys, Aidan", "Weiss, Ed" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57169-058-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Corte Madera, CA : Waite Group Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 how-to" .
+<http://my.perl.books/record/198455712> <http://purl.org/dc/elements/1.1/contributor> "Deep, John", "Holfelder, Peter" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-14158-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.713762" ;
+	<http://purl.org/dc/elements/1.1/title> "Developing CGI applications with Perl" .
+<http://my.perl.books/record/211435392> <http://purl.org/dc/elements/1.1/contributor> "Herrmann, Eric" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57521-009-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind : Sams.net" ;
+	<http://purl.org/dc/elements/1.1/subject> "004.6", "005.75" ;
+	<http://purl.org/dc/elements/1.1/title> "Teach yourself CGI programming with Perl in a week" .
+<http://my.perl.books/record/211823821> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-187-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 desktop reference" .
+<http://my.perl.books/record/211917648> <http://purl.org/dc/elements/1.1/contributor> "Lubitz, Holger", "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-50-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : O'Reilly, Internat. Thomson-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-5-Schnell\u00FCbersicht" .
+<http://my.perl.books/record/213830582> <http://purl.org/dc/elements/1.1/contributor> "Till, David" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-672-30894-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind : Sams Pub" ;
+	<http://purl.org/dc/elements/1.1/title> "Teach yourself Perl 5 in 21 days" .
+<http://my.perl.books/record/214817253> <http://purl.org/dc/elements/1.1/contributor> "Boutell, Thomas" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-42219-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Reading, Mass. [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.7/13762" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI programming in C & Perl" .
+<http://my.perl.books/record/215787862> <http://purl.org/dc/elements/1.1/contributor> "Neuss, Christian", "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-0260-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Internat. Thomson Publ." ;
+	<http://purl.org/dc/elements/1.1/title> "Webmasters Handbuch" .
+<http://my.perl.books/record/216300223> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Potter, Stephen", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-149-8> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming Perl" .
+<http://my.perl.books/record/21667378X> <http://purl.org/dc/elements/1.1/contributor> "Schilli, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1095-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Effektives Programmieren mit Perl 5" .
+<http://my.perl.books/record/218916906> <http://purl.org/dc/elements/1.1/contributor> "Muelver, Jerry" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7645-3018-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Foster City, CA : IDG Books Worldwide" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762" ;
+	<http://purl.org/dc/elements/1.1/title> "Creating cool Web pages with Perl" .
+<http://my.perl.books/record/222399260> <http://purl.org/dc/elements/1.1/contributor> "Patchett, Craig", "Wright, Matthew" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-16896-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "The CGI/Perl cookbook" .
+<http://my.perl.books/record/222930128> <http://purl.org/dc/elements/1.1/contributor> "Hagey, Jonathan" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56276-420-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Emeryville, Calif : Ziff-Davis Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/768" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming Perl 5.0 CGI Web pages for Microsoft Windows NT" .
+<http://my.perl.books/record/224751956> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-48-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/225280647> <http://purl.org/dc/elements/1.1/contributor> "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-08-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : O'Reilly/International Thomson" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/225504782> <http://purl.org/dc/elements/1.1/contributor> "Jamsa, Kris", "Jamsa-Lalani-Weakley, ...", "Lalani, Suleiman", "Weakley, Steve" ;
+	<http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-7453-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Feldkirchen : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "Web-Programmierung" .
+<http://my.perl.books/record/225576678> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F." ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-257-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering regular expressions" .
+<http://my.perl.books/record/225794306> <http://purl.org/dc/elements/1.1/contributor> "Deep, John", "Holfelder, Peter", "Nieder, Hans" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8155-2017-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "D\u00FCsseldorf [u.a.] : Sybex" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI mit Perl" .
+<http://my.perl.books/record/227442970> <http://purl.org/dc/elements/1.1/contributor> "Deng, Brian", "Kemp, Chris", "Middleton, Bill" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-5210-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Haar bei M\u00FCnchen : Markt & Technik, Buch- und Software-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Web-Programmierung mit Perl 5" .
+<http://my.perl.books/record/227968816> <http://purl.org/dc/elements/1.1/contributor> "Wong, Clinton" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-214-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Web client programming with Perl" .
+<http://my.perl.books/record/229603378> <http://purl.org/dc/elements/1.1/contributor> "Klicman, Peter", "Wong, Clinton" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-61-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Web-Client-Programmierung mit Perl" .
+<http://my.perl.books/record/229833519> <http://purl.org/dc/elements/1.1/contributor> "Herrmann, Eric" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57521-196-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind : Sams.net" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.75" ;
+	<http://purl.org/dc/elements/1.1/title> "Teach yourself CGI programming with Perl 5 in a week" .
+<http://my.perl.books/record/230007023> <http://purl.org/dc/elements/1.1/contributor> "Holfelder, Peter", "Patchett, Craig", "Wright, Matthew" ;
+	<http://purl.org/dc/elements/1.1/date> "1097" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-16896-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI/Perl cookbook" .
+<http://my.perl.books/record/230453295> <http://purl.org/dc/elements/1.1/contributor> "Till, David", "Zhang, Tony" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-672-31047-8> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind : Sams Pub" ;
+	<http://purl.org/dc/elements/1.1/title> "Teach yourself Perl 5 for Windows NT in 21 days" .
+<http://my.perl.books/record/230965172> <http://purl.org/dc/elements/1.1/date> "1996" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-9353-2> ;
+	<http://purl.org/dc/elements/1.1/language> "   " ;
+	<http://purl.org/dc/elements/1.1/publisher> "[M\u00FCnchen] : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/231090390> <http://purl.org/dc/elements/1.1/contributor> "McMillan, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-882404-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. [u.a.] : Osborne McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl from the ground up" .
+<http://my.perl.books/record/231310048> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F.", "Karrer, Andreas" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-62-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Regul\u00E4re Ausdr\u00FCcke" .
+<http://my.perl.books/record/231335687> <http://purl.org/dc/elements/1.1/contributor> "Chapman, Nigel" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-97563-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Chichester [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/233690492> <http://purl.org/dc/elements/1.1/contributor> "Quigley, Ellie" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-655689-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, NJ : Prentice Hall PTR" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl by example" .
+<http://my.perl.books/record/233690735> <http://purl.org/dc/elements/1.1/contributor> "Hall, Joseph N.", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-41975-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Reading, Mass. [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Effective Perl programming" .
+<http://my.perl.books/record/233700153> <http://purl.org/dc/elements/1.1/contributor> "Asbury, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57169-118-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Corte Madera, Calif. : Waite Group Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 how-to" .
+<http://my.perl.books/record/233848398> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-284-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/234782951> <http://purl.org/dc/elements/1.1/contributor> "DeWolfe, Michele", "Peschko, Ed" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-913698-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York [u.a.] : McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 complete" .
+<http://my.perl.books/record/235126195> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Dalheimer, Matthias Kalle", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-105-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/235260797> <http://purl.org/dc/elements/1.1/contributor> "Srinivasan, Sriram" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-220-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Advanced Perl programming" .
+<http://my.perl.books/record/236029118> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Denn, Robert", "Olson, Erik", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-324-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl on Win32 systems" .
+<http://my.perl.books/record/236315986> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Olson, Erik", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-106-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl f\u00FCr Win32-Systeme" .
+<http://my.perl.books/record/238541428> <http://purl.org/dc/elements/1.1/contributor> "Srinivasan, Sriram" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-107-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Fortgeschrittene Perl-Programmierung" .
+<http://my.perl.books/record/239299582> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-48-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/240661834> <http://purl.org/dc/elements/1.1/contributor> "Hoffman, Paul E." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-2786-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Internat. Thomson Publ." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 f\u00FCr Dummies" .
+<http://my.perl.books/record/240669932> <http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-370-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl resource kit" .
+<http://my.perl.books/record/240847415> <http://purl.org/dc/elements/1.1/contributor> "Hajji, Farid" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1335-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/241219434> <http://purl.org/dc/elements/1.1/contributor> "Lubitz, Holger", "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "1997" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-50-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : O'Reilly, Internat. Thomson-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-5-Schnell\u00FCbersicht" .
+<http://my.perl.books/record/242172032> <http://purl.org/dc/elements/1.1/contributor> "Quigley, Ellie" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-079980-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, NJ : Prentice Hall PTR" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "The complete PERL training course" .
+<http://my.perl.books/record/243173547> <http://purl.org/dc/elements/1.1/contributor> "Schilli, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1378-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Addison-Wesley Longman" ;
+	<http://purl.org/dc/elements/1.1/title> "Go to Perl 5" .
+<http://my.perl.books/record/243849842> <http://purl.org/dc/elements/1.1/contributor> "Krienke, Rainer" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-18835-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Hanser" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren in Perl" .
+<http://my.perl.books/record/244161593> <http://purl.org/dc/elements/1.1/contributor> "Hall, Joseph N.", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1406-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Effektiv Perl programmieren" .
+<http://my.perl.books/record/24450122X> <http://purl.org/dc/elements/1.1/contributor> "Lemay, Laura" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-672-31305-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind. : Sams" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Sams teach yourself Perl in 21 days" .
+<http://my.perl.books/record/246146753> <http://purl.org/dc/elements/1.1/contributor> "Chapman, Nigel" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-97563-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Chichester [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/246951923> <http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-409-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl resource kit" .
+<http://my.perl.books/record/24770802X> <http://purl.org/dc/elements/1.1/contributor> "Lidie, Stephen O." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-200-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl, Tk" .
+<http://my.perl.books/record/247708038> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-201-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5" .
+<http://my.perl.books/record/249285762> <http://purl.org/dc/elements/1.1/contributor> "Grote, Eike", "Irving, Clay", "Patwardhan, Nate" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-108-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.]  : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl-Modulen" .
+<http://my.perl.books/record/249568322> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-243-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl cookbook" .
+<http://my.perl.books/record/24959465X> <http://purl.org/dc/elements/1.1/contributor> "Herrmann, Eric C." ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7821-2200-8> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "San Francisco, Calif. [u.a.] : SYBEX" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering Perl 5" .
+<http://my.perl.books/record/250280280> <http://purl.org/dc/elements/1.1/contributor> "Brown, Martin" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-882557-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. [u.a.] : Osborne/ McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/250558068> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-105-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/250949210> <http://purl.org/dc/elements/1.1/contributor> "Castro, Elizabeth" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-35358-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Peachpit" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.72" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl and CGI for the World Wide Web" .
+<http://my.perl.books/record/250949369> <http://purl.org/dc/elements/1.1/contributor> "Schilli, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-36068-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Harlow [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.1/33" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl power!" .
+<http://my.perl.books/record/251272559> <http://purl.org/dc/elements/1.1/contributor> "Fey, J\u00FCrgen" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : WEKA Computerzeitschr.-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5" .
+<http://my.perl.books/record/25162496X> <http://purl.org/dc/elements/1.1/contributor> "Roth, Dave" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57870-067-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind. : Macmillan Technical Publ." ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Win32 Perl programming" .
+<http://my.perl.books/record/25276613X> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-48-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/252994213> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-243-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl cookbook" .
+<http://my.perl.books/record/253808944> <http://purl.org/dc/elements/1.1/contributor> "Wallace, Shawn P." ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-478-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming Web graphics with Perl and GNU software" .
+<http://my.perl.books/record/254279740> <http://purl.org/dc/elements/1.1/contributor> "Chapman, Nigel" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-97563-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Chichester [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/265393639> <http://purl.org/dc/elements/1.1/contributor> "Schilli, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1378-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Go to Perl 5" .
+<http://my.perl.books/record/26559037X> <http://purl.org/dc/elements/1.1/contributor> "Walsh, Nancy" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-314-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl/Tk" .
+<http://my.perl.books/record/265867789> <http://purl.org/dc/elements/1.1/contributor> "M\u00FCnz, Stefan", "Nefzger, Wolfgang" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-7403-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "HTML-4.0-Referenz" .
+<http://my.perl.books/record/265881641> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-286-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in a nutshell" .
+<http://my.perl.books/record/268731373> <http://purl.org/dc/elements/1.1/contributor> "Hietaniemi, Jarkko", "Macdonald, John", "Orwant, Jon" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-398-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering algorithms with Perl" .
+<http://my.perl.books/record/26933372X> <http://purl.org/dc/elements/1.1/contributor> "MacEachern, Doug", "Stein, Lincoln" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-567-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Writing Apache modules with Perl and C" .
+<http://my.perl.books/record/270190554> <http://purl.org/dc/elements/1.1/contributor> "Holzner, Steven" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57610-465-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Scottsdale, Ariz : Coriolis" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl black book" .
+<http://my.perl.books/record/270241493> <http://purl.org/dc/elements/1.1/contributor> "Hoffman, Paul E.", "Majetschak, Beate" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-2840-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : MITP-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 f\u00FCr Dummies" .
+<http://my.perl.books/record/271002514> <http://purl.org/dc/elements/1.1/contributor> "Conway, Damian" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-884777-79-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Greenwich, Conn. : Manning" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Object oriented Perl" .
+<http://my.perl.books/record/271054670> <http://purl.org/dc/elements/1.1/contributor> "Lehmann, Marc" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-109-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "28" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren von Grafiken mit Perl" .
+<http://my.perl.books/record/301441499> <http://purl.org/dc/elements/1.1/contributor> "Mui, Linda" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-218-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI - kurz & gut" .
+<http://my.perl.books/record/301497761> <http://purl.org/dc/elements/1.1/contributor> "Johnson, Andrew L." ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-884777-80-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Greenwich, Conn. : Manning" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Elements of programming with Perl" .
+<http://my.perl.books/record/302771697> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-48-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/303005289> <http://purl.org/dc/elements/1.1/contributor> "Bunce, Tim", "Descartes, Alligator" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-699-8> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.74" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming the Perl DBI" .
+<http://my.perl.books/record/303156740> <http://purl.org/dc/elements/1.1/contributor> "Hajji, Farid" ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1335-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/303736305> <http://purl.org/dc/elements/1.1/contributor> "Alm, Petra", "Lemay, Laura" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-2038-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt&Technik" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in 21 Tagen" .
+<http://my.perl.books/record/303940905> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen", "Surmeli, Dimitrij" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-115-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in a nutshell" .
+<http://my.perl.books/record/304366927> <http://purl.org/dc/elements/1.1/contributor> "Franken, Gerhard", "Kabir, Mohammed J." ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-0554-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : MITP-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Die Apache Administration Bibel" .
+<http://my.perl.books/record/304366986> <http://purl.org/dc/elements/1.1/contributor> "Foster-Johnson, Eric" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-0570-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : mitp" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl Module" .
+<http://my.perl.books/record/305277154> <http://purl.org/dc/elements/1.1/contributor> "Schaaf, Dennis" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8287-5041-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/305289241> <http://purl.org/dc/elements/1.1/contributor> "Walsh, Nancy" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-314-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl/Tk" .
+<http://my.perl.books/record/305373072> <http://purl.org/dc/elements/1.1/contributor> "Hajji, Farid" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1535-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/305817302> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-105-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/306250845> <http://purl.org/dc/elements/1.1/contributor> "M\u00FCller, Udo" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-0523-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : MITP-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Der Perl-Kurs" .
+<http://my.perl.books/record/30662320X> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-140-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-Kochbuch" .
+<http://my.perl.books/record/306807548> <http://purl.org/dc/elements/1.1/contributor> "Lindhorst, Arno" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8287-1084-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv" ;
+	<http://purl.org/dc/elements/1.1/title> "Das Einsteigerseminar CGI-Scriptprogrammierung" .
+<http://my.perl.books/record/308999991> <http://purl.org/dc/elements/1.1/contributor> "Dalheimer, Matthias Kalle", "Walsh, Nancy" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-142-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl/Tk" .
+<http://my.perl.books/record/310183421> <http://purl.org/dc/elements/1.1/contributor> "Martinsson, Tobias" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-38314-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "ActivePerl with ASP and ADO" .
+<http://my.perl.books/record/311074308> <http://purl.org/dc/elements/1.1/contributor> "Hietaniemi, Jarkko", "Macdonald, John", "Orwant, Jon" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-141-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Algorithmen mit Perl" .
+<http://my.perl.books/record/311085326> <http://purl.org/dc/elements/1.1/contributor> "Blank-Edelman, David N." ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-609-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl for system administration" .
+<http://my.perl.books/record/31181767X> <http://purl.org/dc/elements/1.1/contributor> "Srinivasan, Sriram" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-107-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Fortgeschrittene Perl-Programmierung" .
+<http://my.perl.books/record/31181901X> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F.", "Karrer, Andreas" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-62-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Regul\u00E4re Ausdr\u00FCcke" .
+<http://my.perl.books/record/313454868> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Schwartz, Randal L.", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-48-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/313613516> <http://purl.org/dc/elements/1.1/contributor> "Hauser, Tobias", "Wenz, Christian" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-5764-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt + Technik Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Jetzt lerne ich Dynamic Web-Publishing" .
+<http://my.perl.books/record/313944695> <http://purl.org/dc/elements/1.1/contributor> "Lindhorst, Arno" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8287-1084-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv" ;
+	<http://purl.org/dc/elements/1.1/title> "Das Einsteigerseminar CGI-Scriptprogrammierung" .
+<http://my.perl.books/record/314016597> <http://purl.org/dc/elements/1.1/contributor> "Birznieks, Gunther", "Guelich, Scott", "Gundavaram, Shishir" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-419-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762", "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI programming with Perl" .
+<http://my.perl.books/record/314075984> <http://purl.org/dc/elements/1.1/contributor> "DeWolfe, Michele", "Peschko, Ed" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-212628-0>, <urn:isbn:978-0-07-212630-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY [u.a.] : McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl developer's guide" .
+<http://my.perl.books/record/314094326> <http://purl.org/dc/elements/1.1/contributor> "Dehnhardt, Wolfgang" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-21413-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Hanser" ;
+	<http://purl.org/dc/elements/1.1/title> "Scriptsprachen f\u00FCr dynamische Webauftritte" .
+<http://my.perl.books/record/31409539X> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F." ;
+	<http://purl.org/dc/elements/1.1/date> "1998" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-257-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering regular expressions" .
+<http://my.perl.books/record/315810254> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00027-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming Perl" .
+<http://my.perl.books/record/316223271> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-243-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl cookbook" .
+<http://my.perl.books/record/317352989> <http://purl.org/dc/elements/1.1/contributor> "Brown, Martin C." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-212676-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. [u.a.] : Osborne/McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Debugging Perl" .
+<http://my.perl.books/record/318089513> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-227-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5" .
+<http://my.perl.books/record/318753995> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-105-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/319373401> <http://purl.org/dc/elements/1.1/contributor> "Louis, Dirk" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-5841-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt + Technik-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Jetzt lerne ich Perl" .
+<http://my.perl.books/record/319441989> <http://purl.org/dc/elements/1.1/contributor> "Bunce, Tim", "Descartes, Alligator", "Wiedmann, Jochen" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-143-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmierung mit Perl DBI" .
+<http://my.perl.books/record/319656675> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-140-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-Kochbuch" .
+<http://my.perl.books/record/32035573X> <http://purl.org/dc/elements/1.1/contributor> "Brown, Martin C." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-212950-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY [u.a.] : Osborne/McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/320355764> <http://purl.org/dc/elements/1.1/contributor> "Thomas, Donald B.", "Wyke, R. Allen" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-212957-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. [u.a.] : Osborne/McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/320366901> <http://purl.org/dc/elements/1.1/contributor> "Roth, Dave" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Hemel Hempstead : Prentice Hall", "Indianapolis, IN : New Riders" ;
+	<http://purl.org/dc/elements/1.1/title> "Win32 Perl scripting" .
+<http://my.perl.books/record/321154320> <http://purl.org/dc/elements/1.1/contributor> "Cross, David" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-930110-00-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Greenwich, Conn : Manning" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.7/2" ;
+	<http://purl.org/dc/elements/1.1/title> "Data munging with Perl" .
+<http://my.perl.books/record/32151100X> <http://purl.org/dc/elements/1.1/contributor> "Birznieks, Gunther", "Guelich, Scott", "Gundavaram, Shishir", "Lang, J\u00F8rgen" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-167-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI-Programmierung mit Perl" .
+<http://my.perl.books/record/321851080> <http://purl.org/dc/elements/1.1/contributor> "Deitel, Harvey M." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-028418-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, NJ : Prentice Hall" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/322082102> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Olson, Erik", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-106-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl f\u00FCr Win32-Systeme" .
+<http://my.perl.books/record/32267560X> <http://purl.org/dc/elements/1.1/contributor> "Blank-Edelman, David N.", "Karrer, Andreas" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-145-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl f\u00FCr System-Administration" .
+<http://my.perl.books/record/322978734> <http://purl.org/dc/elements/1.1/contributor> "Scott, Peter", "Wright, Ed" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-70054-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Boston [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl debugged" .
+<http://my.perl.books/record/322978874> <http://purl.org/dc/elements/1.1/contributor> "Stein, Lincoln D." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-61571-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Boston, Mass. [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762" ;
+	<http://purl.org/dc/elements/1.1/title> "Network programming with Perl" .
+<http://my.perl.books/record/323092047> <http://purl.org/dc/elements/1.1/contributor> "Hoffman, Paul" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7645-0776-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Foster City, Calif. [u.a] : IDG Books Worldwide" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133", "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl for dummies" .
+<http://my.perl.books/record/323895727> <http://purl.org/dc/elements/1.1/contributor> "Hall, Joseph N.", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-41975-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Reading, Mass. [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Effective Perl programming" .
+<http://my.perl.books/record/325433925> <http://purl.org/dc/elements/1.1/contributor> "Castro, Elizabeth" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-73568-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Peachpit Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.276" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl and CGI for the World Wide Web" .
+<http://my.perl.books/record/325443017> <http://purl.org/dc/elements/1.1/contributor> "Walsh, Nancy" ;
+	<http://purl.org/dc/elements/1.1/date> "1999" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-314-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing ;Cambridge : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl/TK" .
+<http://my.perl.books/record/325583811> <http://purl.org/dc/elements/1.1/contributor> "Ro\u00DFner, Thorsten" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-7051-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Das Einsteigerseminar Perl" .
+<http://my.perl.books/record/327839600> <http://purl.org/dc/elements/1.1/contributor> "Hauser, Tobias", "Wenz, Christian" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-5764-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt + Technik Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Jetzt lerne ich Dynamic Web-Publishing" .
+<http://my.perl.books/record/329194534> <http://purl.org/dc/elements/1.1/contributor> "Louis, Dirk", "Wenz, Christian" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-6003-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt+Technik Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Dynamic Web-Publishing" .
+<http://my.perl.books/record/329328131> <http://purl.org/dc/elements/1.1/contributor> "Sparling, Douglas", "Wiles, Frank" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-07-212962-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY [u.a.] : Osborne/McGraw-Hill" ;
+	<http://purl.org/dc/elements/1.1/title> "Instant Perl modules" .
+<http://my.perl.books/record/329328263> <http://purl.org/dc/elements/1.1/contributor> "Lindhorst, Arno" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8287-1084-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv" ;
+	<http://purl.org/dc/elements/1.1/title> "Das Einsteigerseminar CGI-Scriptprogrammierung" .
+<http://my.perl.books/record/329563424> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-144-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/330148486> <http://purl.org/dc/elements/1.1/contributor> "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00132-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/330169300> <http://purl.org/dc/elements/1.1/contributor> "Cuber, Ulrich", "Fahnenstich", "Haselier" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-7124-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "Linux Scripting" .
+<http://my.perl.books/record/330389351> <http://purl.org/dc/elements/1.1/contributor> "M\u00FCller, Udo" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-0728-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : MITP-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl ge-packt" .
+<http://my.perl.books/record/331143674> <http://purl.org/dc/elements/1.1/contributor> "Arva, Adrian", "Kobes, Randy" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-86100-438-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Acocks Green : Wrox Press" ;
+	<http://purl.org/dc/elements/1.1/title> "Professional Perl development" .
+<http://my.perl.books/record/33178811X> <http://purl.org/dc/elements/1.1/contributor> "Hajji, Farid" ;
+	<http://purl.org/dc/elements/1.1/date> "20012000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1535-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/331815419> <http://purl.org/dc/elements/1.1/contributor> "Roth, Dave" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57870-216-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind. : New Riders" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.269" ;
+	<http://purl.org/dc/elements/1.1/title> "Win32 Perl programming" .
+<http://my.perl.books/record/332021424> <http://purl.org/dc/elements/1.1/contributor> "Quigley, Ellie" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-028251-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, NJ : Prentice Hall PTR" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl by example" .
+<http://my.perl.books/record/332327132> <http://purl.org/dc/elements/1.1/contributor> "Leierer, Gudrun Anna", "Stoll, Rolf D." ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8158-2092-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "D\u00FCsseldorf : Data Becker" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl/CGI" .
+<http://my.perl.books/record/332663191> <http://purl.org/dc/elements/1.1/contributor> "Brown, Martin C." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7821-4021-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "San Francisco, Calif. [u.a.] : SYBEX" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.72" ;
+	<http://purl.org/dc/elements/1.1/title> "XML processing with Perl, Python and PHP" .
+<http://my.perl.books/record/332669319> <http://purl.org/dc/elements/1.1/contributor> "Petersen, Theo" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-930110-06-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Greenwich, Conn. : Manning" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Web development with Apache and Perl" .
+<http://my.perl.books/record/332838315> <http://purl.org/dc/elements/1.1/contributor> "Johnson, Andrew L." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89842-168-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : Galileo Press" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/33283929X> <http://purl.org/dc/elements/1.1/contributor> "Thomas, Donald B.", "Wyke, R. Allen" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1650-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl lernen" .
+<http://my.perl.books/record/333255585> <http://purl.org/dc/elements/1.1/contributor> "Stein, Lincoln D." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-61571-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Boston [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762" ;
+	<http://purl.org/dc/elements/1.1/title> "Network programming with Perl" .
+<http://my.perl.books/record/334301564> <http://purl.org/dc/elements/1.1/contributor> "Conway, Damian" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1812-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Objektorientiert Programmieren mit Perl" .
+<http://my.perl.books/record/334304881> <http://purl.org/dc/elements/1.1/contributor> "H\u00E4mmerle-Uhl, Jutta", "Jellinek, Brigitte" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-6153-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt-und-Technik-Verl." ;
+	<http://purl.org/dc/elements/1.1/subject> "28" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/334505860> <http://purl.org/dc/elements/1.1/contributor> "Lidie, Stephen", "Walsh, Nancy" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-716-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering Perl/Tk" .
+<http://my.perl.books/record/335261930> <http://purl.org/dc/elements/1.1/contributor> "Kirsch, Christian" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89864-137-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Heidelberg : dpunkt-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl f\u00FCr Profis" .
+<http://my.perl.books/record/335266177> <http://purl.org/dc/elements/1.1/contributor> "Graf, Thorsten", "Sanders, William B.", "Winstanley, Mark" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-0807-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : mitp-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Serverseitige Flash-Programmierung" .
+<http://my.perl.books/record/336169906> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-105-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/336221126> <http://purl.org/dc/elements/1.1/contributor> "Lerner, Reuven" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-035181-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, N.J. [u.a.] : Prentice Hall PTR" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Core Perl" .
+<http://my.perl.books/record/336460961> <http://purl.org/dc/elements/1.1/contributor> "Kleidt, Brigitte", "Sparling, Doug", "Wiles, Frank" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1908-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl Module" .
+<http://my.perl.books/record/336469071> <http://purl.org/dc/elements/1.1/contributor> "Meltzer, Kevin", "Michalski, Brent" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1896-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI-Anwendungen mit Perl" .
+<http://my.perl.books/record/337729603> <http://purl.org/dc/elements/1.1/contributor> "DuBois, Paul" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7357-1054-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Boston [u.a.] : New Riders" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.75/85" ;
+	<http://purl.org/dc/elements/1.1/title> "MySQL and Perl for the Web" .
+<http://my.perl.books/record/337729832> <http://purl.org/dc/elements/1.1/contributor> "Radcliff, Chris" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7357-1114-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind. [u.a.] : New Riders" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762", "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl for the Web" .
+<http://my.perl.books/record/337779376> <http://purl.org/dc/elements/1.1/contributor> "M\u00FCnz, Stefan", "Nefzger, Wolfgang" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-1896-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "HTML 4.0 Handbuch" .
+<http://my.perl.books/record/338083219> <http://purl.org/dc/elements/1.1/contributor> "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-147-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/338813519> <http://purl.org/dc/elements/1.1/contributor> "Tisdall, James D." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00080-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133", "2832" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Perl for bioinformatics" .
+<http://my.perl.books/record/338813543> <http://purl.org/dc/elements/1.1/contributor> "Callender, John" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-647-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl for Web site management" .
+<http://my.perl.books/record/339199377> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F.", "Karrer, Andreas" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-930673-62-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Regul\u00E4re Ausdr\u00FCcke" .
+<http://my.perl.books/record/33975284X> <http://purl.org/dc/elements/1.1/contributor> "Mui, Linda" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-218-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI - kurz & gut" .
+<http://my.perl.books/record/340095903> <http://purl.org/dc/elements/1.1/contributor> "Saltzman, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-008965-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, N.J. [u.a.] : Prentice Hall PTR" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Modern Perl programming" .
+<http://my.perl.books/record/342189263> <http://purl.org/dc/elements/1.1/contributor> "Christoffel, J\u00FCrgen" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sankt Augustin : GMD-Forschungszentrum Informationstechnik" ;
+	<http://purl.org/dc/elements/1.1/title> "Zweiter Deutscher Perl-Workshop" .
+<http://my.perl.books/record/342497510> <http://purl.org/dc/elements/1.1/contributor> "Ziegler, Joachim" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-540-42685-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin [u.a.] : Springer" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren lernen mit Perl" .
+<http://my.perl.books/record/342517589> <http://purl.org/dc/elements/1.1/contributor> "McIntosh, Jason", "Ray, Erik T." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00205-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.72" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl and XML" .
+<http://my.perl.books/record/342517597> <http://purl.org/dc/elements/1.1/contributor> "Kulchenko, Pavel", "Ray, Randy J." ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00206-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming web services with Perl" .
+<http://my.perl.books/record/344873692> <http://purl.org/dc/elements/1.1/contributor> "DuBois, Paul" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-6297-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt+Technik-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "MySQL & Perl developer\u015B guide" .
+<http://my.perl.books/record/345108469> <http://purl.org/dc/elements/1.1/contributor> "Klicman, Peter", "Tisdall, James D." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-293-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "28" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl f\u00FCr Bioinformatik" .
+<http://my.perl.books/record/345304632> <http://purl.org/dc/elements/1.1/contributor> "Krienke, Rainer" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-22013-3>, <urn:isbn:978-3-446-22215-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Hanser" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren in Perl" .
+<http://my.perl.books/record/345475801> <http://purl.org/dc/elements/1.1/contributor> "Johnson, Andrew L.", "Tokar, Ingrid" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89842-276-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : Galileo Press" ;
+	<http://purl.org/dc/elements/1.1/title> "Einstieg in Perl" .
+<http://my.perl.books/record/345825217> <http://purl.org/dc/elements/1.1/contributor> "Ro\u00DFner, Thorsten" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-7051-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv" ;
+	<http://purl.org/dc/elements/1.1/title> "Das Einsteigerseminar Perl" .
+<http://my.perl.books/record/346090229> <http://purl.org/dc/elements/1.1/contributor> "Willms, Roland" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-6995-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren in FORTRAN, Perl, Java und C# - echt einfach" .
+<http://my.perl.books/record/346092590> <http://purl.org/dc/elements/1.1/contributor> "M\u00FCller, Udo" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1900-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen ;Boston  : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Workshop Perl" .
+<http://my.perl.books/record/346641349> <http://purl.org/dc/elements/1.1/contributor> "Schaaf, Dennis" ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-8035-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/347256872> <http://purl.org/dc/elements/1.1/contributor> "Cozens, Simon", "Wainwright, Peter" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-86100-314-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Birmingham, UK ;Chicago, IL : Wrox Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning perl" .
+<http://my.perl.books/record/347367127> <http://purl.org/dc/elements/1.1/contributor> "Orwant, Jon" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00310-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Computer science & Perl programming" .
+<http://my.perl.books/record/348155948> <http://purl.org/dc/elements/1.1/contributor> "Petter, Ehrhardt" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8007-2631-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin [u.a.] : VDE-Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-Anwendungen im Web" .
+<http://my.perl.books/record/348330928> <http://purl.org/dc/elements/1.1/contributor> "Burke, Sean M." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00178-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.]: O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl and LWP" .
+<http://my.perl.books/record/349092427> <http://purl.org/dc/elements/1.1/contributor> "Klier, Rainer" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1886-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.]  : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/349365539> <http://purl.org/dc/elements/1.1/contributor> "Stein, Lincoln D." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1968-5>, <urn:isbn:978-3-8273-1988-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Netzwerkprogrammierung mit Perl" .
+<http://my.perl.books/record/349380783> <http://purl.org/dc/elements/1.1/contributor> "Orwant, Jon" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00312-8> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3", "005.133", "28" ;
+	<http://purl.org/dc/elements/1.1/title> "Games, diversions, and Perl culture" .
+<http://my.perl.books/record/349463387> <http://purl.org/dc/elements/1.1/contributor> "Duncan, Andy", "Still, Jared" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00210-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl for Oracle DBAs" .
+<http://my.perl.books/record/349822069> <http://purl.org/dc/elements/1.1/contributor> "Dwyer, Rex A." ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-521-80177-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : Cambridge Univ. Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "572.80285" ;
+	<http://purl.org/dc/elements/1.1/title> "Genomic Perl" .
+<http://my.perl.books/record/350163995> <http://purl.org/dc/elements/1.1/contributor> "Tregar, Sam" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-018-8> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "San Francisco, Calif. : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Writing Perl modules for CPAN" .
+<http://my.perl.books/record/350534454> <http://purl.org/dc/elements/1.1/contributor> "Wallace, Shawn P." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00219-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "006.6/63", "006.663" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl graphics programming" .
+<http://my.perl.books/record/350534489> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00241-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in a nutshell" .
+<http://my.perl.books/record/350534578> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00374-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.7262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/350723109> <http://purl.org/dc/elements/1.1/contributor> "Michalski, Brent" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7645-4956-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind. : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl database programming" .
+<http://my.perl.books/record/350859671> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-144-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u. a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/351008632> <http://purl.org/dc/elements/1.1/contributor> "Hinrichs, J\u00F6rg" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-6504-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "Web-Datenbanken" .
+<http://my.perl.books/record/352344970> <http://purl.org/dc/elements/1.1/contributor> "Hinrichs, J\u00F6rg" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-7000-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : Franzis" ;
+	<http://purl.org/dc/elements/1.1/title> "Web-Datenbanken" .
+<http://my.perl.books/record/352351756> <http://purl.org/dc/elements/1.1/contributor> "Teich, Peter" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Nackenheim (Germany) : Herdt" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5" .
+<http://my.perl.books/record/352564067> <http://purl.org/dc/elements/1.1/contributor> "Verbruggen, Martien" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-930110-02-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Greenwich : Manning" ;
+	<http://purl.org/dc/elements/1.1/subject> "006.6/633" ;
+	<http://purl.org/dc/elements/1.1/title> "Graphics programming with Perl" .
+<http://my.perl.books/record/352916672> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00289-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.711" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering regular expressions " .
+<http://my.perl.books/record/353756628> <http://purl.org/dc/elements/1.1/contributor> "Hammond, Michael T." ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-631-23433-3>, <urn:isbn:978-0-631-23434-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Malden, Mass. [u.a.] : Blackwell" ;
+	<http://purl.org/dc/elements/1.1/subject> "410.285" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming for linguists" .
+<http://my.perl.books/record/35382397X> <http://purl.org/dc/elements/1.1/contributor> "Patay, Helmut" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-2053-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.]  : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Webprogrammierung mit Perl" .
+<http://my.perl.books/record/353824224> <http://purl.org/dc/elements/1.1/contributor> "Callender, John", "Lang, J\u00F8rgen W." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-158-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl f\u00FCr Website-Management" .
+<http://my.perl.books/record/354068598> <http://purl.org/dc/elements/1.1/contributor> "Cozens, Simon", "Jenness, Tim" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-930110-82-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Greenwich, Conn. : Manning" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Extending and embedding Perl" .
+<http://my.perl.books/record/354777076> <http://purl.org/dc/elements/1.1/contributor> "Barry, Paul" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-48670-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Chichester : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming the Network with Perl" .
+<http://my.perl.books/record/355801744> <http://purl.org/dc/elements/1.1/contributor> "K\u00E4stner, Martin" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89842-245-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : Galileo Press" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl f\u00FCrs Web" .
+<http://my.perl.books/record/355965968> <http://purl.org/dc/elements/1.1/contributor> "Jamison, D. Curtis" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-471-43059-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Hoboken, N.J : Wiley-Liss" ;
+	<http://purl.org/dc/elements/1.1/subject> "570.2855", "570/.28/55133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl programming for biologists" .
+<http://my.perl.books/record/356867064> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-227-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5 " .
+<http://my.perl.books/record/357141504> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00241-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in a nutshell" .
+<http://my.perl.books/record/357727304> <http://purl.org/dc/elements/1.1/contributor> "Hahn, Christian" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89842-275-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : Galileo Press" ;
+	<http://purl.org/dc/elements/1.1/title> "Web Content Management mit Perl" .
+<http://my.perl.books/record/358587611> <http://purl.org/dc/elements/1.1/contributor> "Hoffman, Paul" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7645-3750-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, N.Y. ;Chichester : Wiley Pub" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl for dummies" .
+<http://my.perl.books/record/358847303> <http://purl.org/dc/elements/1.1/contributor> "McIntosh, Jason", "Ray, Erik T.", "Wiedmann, Jochen" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-148-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.72" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl & XML" .
+<http://my.perl.books/record/358860016> <http://purl.org/dc/elements/1.1/contributor> "Orwant, Jon" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00311-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Web, graphics & Perl/Tk" .
+<http://my.perl.books/record/361098839> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-338-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in a nutshell" .
+<http://my.perl.books/record/362555036> <http://purl.org/dc/elements/1.1/contributor> "Tisdall, James D." ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00307-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering Perl for bioinformatics" .
+<http://my.perl.books/record/362868689> <http://purl.org/dc/elements/1.1/contributor> "Randal, Allison", "Sugalski, Dan", "T\u00F6tsch, Leopold" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00499-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 6 essentials" .
+<http://my.perl.books/record/363521178> <http://purl.org/dc/elements/1.1/contributor> "Schr\u00F6ter, J\u00FCrgen", "Seidel, Helmut" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-486-25889-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Oldenbourg" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/363710841> <http://purl.org/dc/elements/1.1/contributor> "Shea, Linchi" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-097-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.7585" ;
+	<http://purl.org/dc/elements/1.1/title> "Real world SQL server administration with Perl" .
+<http://my.perl.books/record/364135018> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F." ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-349-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Regul\u00E4re Ausdr\u00FCcke" .
+<http://my.perl.books/record/364682264> <http://purl.org/dc/elements/1.1/contributor> "Ditchen, Patrick" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8272-6393-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Markt und Technik Verl." ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/364741287> <http://purl.org/dc/elements/1.1/contributor> "Vorl\u00E4nder, Martin" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-244-2> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI" .
+<http://my.perl.books/record/364794054> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-247-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/365106267> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00313-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl Cookbook" .
+<http://my.perl.books/record/365115673> <http://purl.org/dc/elements/1.1/contributor> "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00478-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl objects, references, and modules" .
+<http://my.perl.books/record/366289861> <http://purl.org/dc/elements/1.1/contributor> "Chamberlain, Darren", "Cross, Dave", "Wardley, Andy" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00476-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl template toolkit" .
+<http://my.perl.books/record/36628987X> <http://purl.org/dc/elements/1.1/contributor> "Foley, Richard" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00503-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.13/3", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl debugger" .
+<http://my.perl.books/record/367161508> <http://purl.org/dc/elements/1.1/contributor> "Lang, J\u00F8rgen W.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-147-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/367386917> <http://purl.org/dc/elements/1.1/contributor> "Schaaf, Dennis" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-8035-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kaarst : bhv" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/36846878X> <http://purl.org/dc/elements/1.1/contributor> "Harris, Rozi" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7821-4213-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "San Francisco, Calif. [u.a.] : SYBEX" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762", "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl, CGI, JavaScript complete" .
+<http://my.perl.books/record/369511360> <http://purl.org/dc/elements/1.1/contributor> "Schorn, J\u00F6rg", "Schorn, Wolfgang" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-2115-2>, <urn:isbn:978-3-8273-2263-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Scriptprogrammierung f\u00FCr Solaris & Linux" .
+<http://my.perl.books/record/371256216> <http://purl.org/dc/elements/1.1/contributor> "Hajji, Farid" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8273-1535-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/371827515> <http://purl.org/dc/elements/1.1/contributor> "Schr\u00F6ter, J\u00FCrgen", "Seidel, Helmut" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-486-25902-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Oldenbourg" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/372984096> <http://purl.org/dc/elements/1.1/contributor> "Lang, J\u00F8rgen W.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-149-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl-Objekte, Referenzen & Module" .
+<http://my.perl.books/record/376231866> <http://purl.org/dc/elements/1.1/contributor> "Fraley, R. Chris" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-57230-997-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY [u.a.] : Guilford Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "150.2854678" ;
+	<http://purl.org/dc/elements/1.1/title> "How to conduct behavioral research over the internet" .
+<http://my.perl.books/record/37689556X> <http://purl.org/dc/elements/1.1/contributor> "Schrader, Undine" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-7723-6880-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Poing : Franzis" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Web-Programmierung mit Perl und CGI - echt einfach" .
+<http://my.perl.books/record/376922931> <http://purl.org/dc/elements/1.1/contributor> "Barry, Paul", "Moorhouse, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-470-85331-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Chichester [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "570.285571262" ;
+	<http://purl.org/dc/elements/1.1/title> "Bioinformatics, biocomputing and Perl" .
+<http://my.perl.books/record/377616842> <http://purl.org/dc/elements/1.1/contributor> "Scott, Peter J." ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-201-79526-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Boston, Mass. [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl Medic" .
+<http://my.perl.books/record/379617617> <http://purl.org/dc/elements/1.1/contributor> "W\u00FCnschiers, R\u00F6bbe" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-540-21142-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin [u.a.] : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "570", "570004" ;
+	<http://purl.org/dc/elements/1.1/title> "Computational biology" .
+<http://my.perl.books/record/380118211> <http://purl.org/dc/elements/1.1/contributor> "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-323-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Randal Schwartz's perls of wisdom" .
+<http://my.perl.books/record/384001610> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-366-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-Kochbuch" .
+<http://my.perl.books/record/386649464> <http://purl.org/dc/elements/1.1/contributor> "Randal, Allison", "Sugalski, Dan", "T\u00F6tsch, Leopold" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00737-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.13/3", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 6 and Parrot essentials" .
+<http://my.perl.books/record/38814162X> <http://purl.org/dc/elements/1.1/contributor> "Walters, Scott" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-395-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 6 now" .
+<http://my.perl.books/record/389644757> <http://purl.org/dc/elements/1.1/contributor> "Gunther, Neil J." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-540-20865-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin [u.a.] : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "004.24" ;
+	<http://purl.org/dc/elements/1.1/title> "Analyzing computer system performance with PERL::PDQ" .
+<http://my.perl.books/record/39103880X> <http://purl.org/dc/elements/1.1/contributor> "Lang, J\u00F8rgen W.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-147-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/391666959> <http://purl.org/dc/elements/1.1/contributor> "Dominus, Mark Jason" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-55860-701-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Amsterdam [u.a.] : Morgan Kaufmann Publishers" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Higher-order Perl" .
+<http://my.perl.books/record/392336073> <http://purl.org/dc/elements/1.1/contributor> "Foley, Richard", "Lester, Andy" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-454-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress", "New York : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Pro Perl debugging" .
+<http://my.perl.books/record/392582287> <http://purl.org/dc/elements/1.1/contributor> "Deller, Richard F." ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-7288-0> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Bonn : Bhv-Verl." ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Das Einsteigerseminar Perl 6" .
+<http://my.perl.books/record/392707195> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00241-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in a nutshell" .
+<http://my.perl.books/record/393078256> <http://purl.org/dc/elements/1.1/contributor> "Cozens, Simon", "Lee, James", "Wainwright, Peter" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-391-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Perl" .
+<http://my.perl.books/record/470703601> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2003" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-144-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u. a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren mit Perl" .
+<http://my.perl.books/record/47441292X> <http://purl.org/dc/elements/1.1/contributor> "Lang, J\u00F8rgen W.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-147-6> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/474706494> <http://purl.org/dc/elements/1.1/contributor> "Wainwright, Peter" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-438-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress", "New York [u.a.] : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Pro Perl" .
+<http://my.perl.books/record/477540198> <http://purl.org/dc/elements/1.1/contributor> "Eidenberger, Horst", "Michlmayr, Elke" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89864-320-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Heidelberg : dpunkt-Verl." ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Mit Perl programmieren lernen" .
+<http://my.perl.books/record/480988811> <http://purl.org/dc/elements/1.1/contributor> "Frenz, Christopher M." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-504-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress", "New York : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Pro Perl parsing" .
+<http://my.perl.books/record/482323175> <http://purl.org/dc/elements/1.1/contributor> "Cozens, Simon" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00456-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Advanced Perl programming" .
+<http://my.perl.books/record/484941976> <http://purl.org/dc/elements/1.1/contributor> "Cuber, Ulrich" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8245-8316-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Kissing : Interest" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Administrative L\u00F6sungen mit Perl" .
+<http://my.perl.books/record/485262479> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-10105-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/485616343> <http://purl.org/dc/elements/1.1/contributor> "Schafer, Steven M." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7645-8820-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, IN : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "006.7/4", "006.74" ;
+	<http://purl.org/dc/elements/1.1/title> "Web standards programmer's reference" .
+<http://my.perl.books/record/486226298> <http://purl.org/dc/elements/1.1/contributor> "Maher, Tim" ;
+	<http://purl.org/dc/elements/1.1/date> "2007" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-932394-50-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Greenwich, Conn. : Manning" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Minimal Perl" .
+<http://my.perl.books/record/494335122> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Lang, J\u00F8rgen W.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-434-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/495224553> <http://purl.org/dc/elements/1.1/contributor> "Conway, Damian" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00173-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl best practices" .
+<http://my.perl.books/record/496536788> <http://purl.org/dc/elements/1.1/contributor> "Nugues, Pierre M." ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-540-25031-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin [u.a.] : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "004400", "006.35" ;
+	<http://purl.org/dc/elements/1.1/title> "An introduction to language processing with Perl and Prolog" .
+<http://my.perl.books/record/500299242> <http://purl.org/dc/elements/1.1/contributor> "Oualline, Steve" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59327-062-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "San Francisco, Calif. : No Starch Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Wicked cool Perl scripts" .
+<http://my.perl.books/record/500885214> <http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Hannover : RRZN" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/501930671> <http://purl.org/dc/elements/1.1/contributor> "Suehring, Steve" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-531-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress", "New York : Springer" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Web development with Perl" .
+<http://my.perl.books/record/503379395> <http://purl.org/dc/elements/1.1/contributor> "Barry, Paul", "Moorhouse, Michael" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-470-85331-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Chichester [u.a.] : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "570.285571262" ;
+	<http://purl.org/dc/elements/1.1/title> "Bioinformatics, biocomputing and Perl" .
+<http://my.perl.books/record/504378937> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F.", "Karrer, Andreas" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-349-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Regul\u00E4re Ausdr\u00FCcke" .
+<http://my.perl.books/record/508405610> <http://purl.org/dc/elements/1.1/contributor> "Conway, Damian", "Poe, Curtis", "chromatic" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-52674-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, Calif. [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.13/3", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl Hacks" .
+<http://my.perl.books/record/508406005> <http://purl.org/dc/elements/1.1/contributor> "Conway, Damian" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-454-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl - best practices" .
+<http://my.perl.books/record/509765572> <http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-939520-07-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin : TEIA, Internet-Akad., Lehrbuch-Verl." ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "WebSite-Administration & Grundlagen Apache" .
+<http://my.perl.books/record/510471153> <http://purl.org/dc/elements/1.1/contributor> "Fortenbacher, Albrecht", "Kutscher" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-939520-11-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin : TEIA, Internet-Akad., Lehrbuch-Verl." ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl & CGI" .
+<http://my.perl.books/record/511631499> <http://purl.org/dc/elements/1.1/contributor> "Oualline, Steve" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-40683-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Hanser" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Echt coole Perl-Skripte" .
+<http://my.perl.books/record/514671947> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-10206-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Intermediate Perl" .
+<http://my.perl.books/record/514883286> <http://purl.org/dc/elements/1.1/contributor> "Dominus, Mark Jason" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-55860-701-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Amsterdam [u.a.] : Kaufmann" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Higher-order Perl" .
+<http://my.perl.books/record/515928321> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F.", "Oram, Andy" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-52812-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, Ca. [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.711" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering regular expressions" .
+<http://my.perl.books/record/517515490> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Klicman, Peter", "Torkington, Nathan" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-366-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl-Kochbuch" .
+<http://my.perl.books/record/52159894X> <http://purl.org/dc/elements/1.1/contributor> "Berman, Jules J." ;
+	<http://purl.org/dc/elements/1.1/date> "2007" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-7637-4333-8> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sudbury, Mass. [u.a.] : Jones and Bartlett" ;
+	<http://purl.org/dc/elements/1.1/subject> "610.285" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl programming for medicine and biology" .
+<http://my.perl.books/record/523156871> <http://purl.org/dc/elements/1.1/contributor> "Conway, Damian", "Lang, J\u00F8rgen W.", "Poe, Curtis", "chromatic'" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-474-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl Hacks" .
+<http://my.perl.books/record/523937423> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2007" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-52724-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Mastering Perl" .
+<http://my.perl.books/record/524937346> <http://purl.org/dc/elements/1.1/contributor> "Wainwright, Peter" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4302-0014-7>, <urn:isbn:978-1-59059-438-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, CA : Peter Wainwright" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Pro Perl" .
+<http://my.perl.books/record/524937648> <http://purl.org/dc/elements/1.1/contributor> "Foley, Richard", "Lester, Andy" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4302-0044-4>, <urn:isbn:978-1-59059-454-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, CA : Richard Foley with Andy Lester" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Pro Perl Debugging" .
+<http://my.perl.books/record/524937699> <http://purl.org/dc/elements/1.1/contributor> "Frenz, Christopher M." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4302-0049-9>, <urn:isbn:978-1-59059-504-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, CA : Christopher M. Frenz" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Pro Perl Parsing" .
+<http://my.perl.books/record/524938105> <http://purl.org/dc/elements/1.1/contributor> "Suehring, Steve" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4302-0089-5>, <urn:isbn:978-1-59059-531-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, CA : Steve Suehring" ;
+	<http://purl.org/dc/elements/1.1/subject> "651.8424" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Web Development with Perl" .
+<http://my.perl.books/record/524971714> <http://purl.org/dc/elements/1.1/contributor> "Nugues, Pierre M." ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-540-25031-9>, <urn:isbn:978-3-540-34336-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin, Heidelberg : Springer-Verlag Berlin Heidelberg" ;
+	<http://purl.org/dc/elements/1.1/subject> "004400", "006.3/5" ;
+	<http://purl.org/dc/elements/1.1/title> "An Introduction to Language Processing with Perl and Prolog" .
+<http://my.perl.books/record/525481222> <http://purl.org/dc/elements/1.1/contributor> "Schr\u00F6ter, J\u00FCrgen" ;
+	<http://purl.org/dc/elements/1.1/date> "2007" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-486-58074-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Oldenbourg" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Grundwissen Perl" .
+<http://my.perl.books/record/52549667X> <http://purl.org/dc/elements/1.1/contributor> "Etschberger, Stefan" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8334-6273-3> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Norderstedt : Books on Demand GmbH" ;
+	<http://purl.org/dc/elements/1.1/subject> "510004" ;
+	<http://purl.org/dc/elements/1.1/title> "Medea" .
+<http://my.perl.books/record/534912842> <http://purl.org/dc/elements/1.1/contributor> "Friedl, Jeffrey E. F.", "Karrer, Andreas" ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-720-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.13" ;
+	<http://purl.org/dc/elements/1.1/title> "Regul\u00E4re Ausdr\u00FCcke" .
+<http://my.perl.books/record/538141085> <http://purl.org/dc/elements/1.1/contributor> "Quigley, Ellie" ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-238182-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, NJ [u.a.] : Prentice Hall" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133", "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl by example" .
+<http://my.perl.books/record/545547741> <http://purl.org/dc/elements/1.1/contributor> "Kak, Avinash C." ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-470-17923-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Hoboken, N.J : John Wiley & Sons" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.1/17", "005.117" ;
+	<http://purl.org/dc/elements/1.1/title> "Scripting with objects" .
+<http://my.perl.books/record/54738422X> <http://purl.org/dc/elements/1.1/contributor> "M\u00FCller, Udo" ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8266-1776-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Heidelberg : mitp-Verl." ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/55818989X> <http://purl.org/dc/elements/1.1/contributor> "Frank, Simon A." ;
+	<http://purl.org/dc/elements/1.1/date> "2007" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-8370-1379-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Norderstedt : Books on Demand" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Webprogrammierung mit Perl" .
+<http://my.perl.books/record/56071422X> <http://purl.org/dc/elements/1.1/contributor> "Bilisoly, Roger" ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-470-17643-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Hoboken, NJ : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.74" ;
+	<http://purl.org/dc/elements/1.1/title> "Practical text mining with Perl" .
+<http://my.perl.books/record/565595962> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-52010-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/570445779> <http://purl.org/dc/elements/1.1/contributor> "Krienke, Rainer" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-22013-3>, <urn:isbn:978-3-446-22215-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Hanser" ;
+	<http://purl.org/dc/elements/1.1/title> "Programmieren in Perl" .
+<http://my.perl.books/record/570452910> <http://purl.org/dc/elements/1.1/contributor> "Cozens, Simon" ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00456-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, Calif. : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Advanced Perl programming" .
+<http://my.perl.books/record/570648726> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00027-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing ;K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming Perl" .
+<http://my.perl.books/record/570662516> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-10105-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly", "Sebastopol, CA : Safari Books Online" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/570678935> <http://purl.org/dc/elements/1.1/contributor> "Patwardhan, Nathan", "Siever, Ellen", "Spainhour, Stephen" ;
+	<http://purl.org/dc/elements/1.1/date> "2002" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00241-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing ;K\u00F6ln [u.a.] : O'Reilly", "Sebastopol, CA : Safari Books Online " ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl in a nutshell" .
+<http://my.perl.books/record/570696542> <http://purl.org/dc/elements/1.1/contributor> "Birznieks, Gunther", "Guelich, Scott", "Gundavaram, Shishir" ;
+	<http://purl.org/dc/elements/1.1/date> "2000" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-56592-419-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing ;K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2/762" ;
+	<http://purl.org/dc/elements/1.1/title> "CGI programming with Perl" .
+<http://my.perl.books/record/573205493> <http://purl.org/dc/elements/1.1/contributor> "Rockway, Jonathan" ;
+	<http://purl.org/dc/elements/1.1/date> "2007" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-84719-095-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Birmingham [u.a.] : Packt Publ." ;
+	<http://purl.org/dc/elements/1.1/title> "Catalyst" .
+<http://my.perl.books/record/575620382> <http://purl.org/dc/elements/1.1/contributor> "Tisdall, James D." ;
+	<http://purl.org/dc/elements/1.1/date> "2001" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00080-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing ;K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Perl for bioinformatics" .
+<http://my.perl.books/record/581760824> <http://purl.org/dc/elements/1.1/contributor> "Chromatic" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-52674-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, CA : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl Hacks" .
+<http://my.perl.books/record/588916889> <http://purl.org/dc/elements/1.1/contributor> "Plate, J\u00FCrgen" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-41688-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Hanser" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Der Perl-Programmierer" .
+<http://my.perl.books/record/589497820> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-52010-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing ;K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/589975129> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-10206-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing ;K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/title> "Intermediate Perl" .
+<http://my.perl.books/record/591380382> <http://purl.org/dc/elements/1.1/contributor> "Valiente, Gabriel" ;
+	<http://purl.org/dc/elements/1.1/date> "2009" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4200-6973-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Boca Raton, Fla. [u.a.] : CRC Press/Taylor & Francis" ;
+	<http://purl.org/dc/elements/1.1/subject> "572.80285" ;
+	<http://purl.org/dc/elements/1.1/title> "Combinatorial pattern matching algorithms in computational biology using Perl and R" .
+<http://my.perl.books/record/593021185> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Lang, J\u00F8rgen W.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2009" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-89721-887-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/596014309> <http://purl.org/dc/elements/1.1/contributor> "Cardim, Eden", "Diment, Kieren", "Trout, Matt S." ;
+	<http://purl.org/dc/elements/1.1/date> "2009" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4302-2365-8>, <urn:isbn:978-1-4302-2366-5> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, Calif. : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "The definitive guide to Catalyst" .
+<http://my.perl.books/record/610702750> <http://purl.org/dc/elements/1.1/date> "2009" ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Hannover : RRZN" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl 5" .
+<http://my.perl.books/record/612895866> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2008" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-52010-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/615998690> <http://purl.org/dc/elements/1.1/contributor> "McDaniel, Adam" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-470-55680-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind. : Wiley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl and Apache" .
+<http://my.perl.books/record/617210306> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Hall, Joseph N.", "McAdams, Joshua A." ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-321-49694-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, NJ [u.a.] : Addison-Wesley" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Effective Perl programming" .
+<http://my.perl.books/record/617329915> <http://purl.org/dc/elements/1.1/contributor> "Schr\u00F6ter, J\u00FCrgen" ;
+	<http://purl.org/dc/elements/1.1/date> "2009" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-486-58074-7> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen ;Wien : Oldenbourg" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Grundwissen Perl" .
+<http://my.perl.books/record/617330778> <http://purl.org/dc/elements/1.1/contributor> "Schr\u00F6ter, J\u00FCrgen", "Seidel, Helmut" ;
+	<http://purl.org/dc/elements/1.1/date> "2009" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-486-25902-5> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen ;Wien : Oldenbourg" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/618045015> <http://purl.org/dc/elements/1.1/contributor> "Schr\u00F6ter, J\u00FCrgen", "Seidel, Helmut" ;
+	<http://purl.org/dc/elements/1.1/date> "2009" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-486-25889-9>, <urn:isbn:978-3-486-59391-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Oldenbourg" ;
+	<http://purl.org/dc/elements/1.1/subject> "28" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/621455180> <http://purl.org/dc/elements/1.1/contributor> "Cozens, Simon", "Lee, James" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4302-2793-9>, <urn:isbn:978-1-4302-2794-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY : Springer", "[Berkeley, Calif.] : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Perl" .
+<http://my.perl.books/record/630430713> <http://purl.org/dc/elements/1.1/contributor> "Lee, James" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4302-2793-9>, <urn:isbn:978-1-4302-2794-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berkeley, CA : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Perl" .
+<http://my.perl.books/record/638512557> <http://purl.org/dc/elements/1.1/contributor> "Plate, J\u00FCrgen" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-42449-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Hanser" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Der Perl-Programmierer" .
+<http://my.perl.books/record/638602726> <http://purl.org/dc/elements/1.1/contributor> "John, Antano Solar" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-84719-924-9>, <urn:isbn:978-1-84719-925-6> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Birmingham [u.a.] : Packt Publ." ;
+	<http://purl.org/dc/elements/1.1/title> "Catalyst 5.8" .
+<http://my.perl.books/record/642905592> <http://purl.org/dc/elements/1.1/contributor> "Warden, Shane" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-9779201-5-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "[Hillsboro, Or.] : Onyx Neon Press" ;
+	<http://purl.org/dc/elements/1.1/title> "Modern Perl" .
+<http://my.perl.books/record/646162365> <http://purl.org/dc/elements/1.1/contributor> "Plate, J\u00FCrgen" ;
+	<http://purl.org/dc/elements/1.1/date> "2010" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-446-41688-8>, <urn:isbn:978-3-446-42449-4> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen : Hanser" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Der Perl-Programmierer" .
+<http://my.perl.books/record/658519778> <http://purl.org/dc/elements/1.1/contributor> "Suehring, Steve" ;
+	<http://purl.org/dc/elements/1.1/date> "2006" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59059-531-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "[s.l.] : Apress" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Perl Web Development" .
+<http://my.perl.books/record/661722996> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2011" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4493-0358-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, CA : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/661723003> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "2011" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4493-0370-9> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Sebastopol, Calif. : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl pocket reference" .
+<http://my.perl.books/record/665355149> <http://purl.org/dc/elements/1.1/contributor> "Gunther, Neil J." ;
+	<http://purl.org/dc/elements/1.1/date> "2011" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-642-22582-6>, <urn:isbn:978-3-642-22583-3> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin [u.a.] : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Analyzing computer system performance with Perl::PDQ" .
+<http://my.perl.books/record/665697139> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4493-9309-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.133" ;
+	<http://purl.org/dc/elements/1.1/title> "Intermediate Perl" .
+<http://my.perl.books/record/666896828> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Lang, J\u00F8rgen W.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-86899-145-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/667165401> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2011" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-4493-0358-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.71262" ;
+	<http://purl.org/dc/elements/1.1/title> "Learning Perl" .
+<http://my.perl.books/record/669488224> <http://purl.org/dc/elements/1.1/contributor> "Christiansen, Tom", "Foy, Brian D.", "Orwant, Jon", "Wall, Larry" ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-596-00492-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Programming Perl" .
+<http://my.perl.books/record/679764178> <http://purl.org/dc/elements/1.1/contributor> "Vromans, Johan" ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-86899-187-1> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Beijing [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/682683973> <http://purl.org/dc/elements/1.1/contributor> "Bradnam, Keith", "Korf, Ian" ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-521-16982-0>, <urn:isbn:978-1-107-00068-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "New York, NY [u.a.] : Cambridge Univ. Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.4/32", "SCI029000" ;
+	<http://purl.org/dc/elements/1.1/title> "UNIX and Perl to the rescue!" .
+<http://my.perl.books/record/68515632X> <http://purl.org/dc/elements/1.1/contributor> "Chromatic", "Warden, Shane" ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-9779201-7-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "[Hillsboro, Or.] : Onyx Neon Press" ;
+	<http://purl.org/dc/elements/1.1/title> "Modern perl" .
+<http://my.perl.books/record/717136892> <http://purl.org/dc/elements/1.1/contributor> "Samuelsson, Tore" ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-107-00856-4>, <urn:isbn:978-1-107-40124-2> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Cambridge [u.a.] : Cambridge Univ. Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "572.8/6", "SCI029000" ;
+	<http://purl.org/dc/elements/1.1/title> "Genomics and bioinformatics" .
+<http://my.perl.books/record/729769127> <http://purl.org/dc/elements/1.1/contributor> "Foy, Brian D.", "Lang, J\u00F8rgen W", "Phoenix, Tom", "Schwartz, Randal L." ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-95561-038-8> ;
+	<http://purl.org/dc/elements/1.1/language> "ger", "gereng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "K\u00F6ln [u.a.] : O'Reilly" ;
+	<http://purl.org/dc/elements/1.1/subject> "004" ;
+	<http://purl.org/dc/elements/1.1/title> "Einf\u00FChrung in Perl" .
+<http://my.perl.books/record/73098916X> <http://purl.org/dc/elements/1.1/contributor> "Poe, Curtis" ;
+	<http://purl.org/dc/elements/1.1/date> "2012" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-118-01384-7>, <urn:isbn:978-1-118-22187-7>, <urn:isbn:978-1-118-23563-8>, <urn:isbn:978-1-118-26051-7> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Indianapolis, Ind. : Wiley/Wrox" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.2762" ;
+	<http://purl.org/dc/elements/1.1/title> "Beginning Perl" .
+<http://my.perl.books/record/756548519> <http://purl.org/dc/elements/1.1/contributor> "Krumins, Peteris" ;
+	<http://purl.org/dc/elements/1.1/date> "2013" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-1-59327-520-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "San Francisco, Calif. : No Starch Press" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3", "COM051350COM000000COM051000COM088000" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl one-liners" .
+<http://my.perl.books/record/76666273X> <http://purl.org/dc/elements/1.1/contributor> "Gunther, Neil J." ;
+	<http://purl.org/dc/elements/1.1/date> "2005" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-540-20865-5>, <urn:isbn:978-3-540-26860-4> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Berlin, Heidelberg : Springer-Verlag Berlin Heidelberg" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "005.1" ;
+	<http://purl.org/dc/elements/1.1/title> "Analyzing Computer System Performance with Perl::PDQ" .
+<http://my.perl.books/record/767865456> <http://purl.org/dc/elements/1.1/contributor> "Seidel, Helmut" ;
+	<http://purl.org/dc/elements/1.1/date> "2004" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-486-59325-9> ;
+	<http://purl.org/dc/elements/1.1/language> "ger" ;
+	<http://purl.org/dc/elements/1.1/publisher> "M\u00FCnchen [u.a.] : Oldenbourg" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl" .
+<http://my.perl.books/record/76930785X> <http://purl.org/dc/elements/1.1/contributor> "Nugues, Pierre M." ;
+	<http://purl.org/dc/elements/1.1/date> "2014" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-3-642-41463-3>, <urn:isbn:978-3-642-41464-0> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Heidelberg [u.a.] : Springer" ;
+	<http://purl.org/dc/elements/1.1/subject> "004", "004400", "006.35" ;
+	<http://purl.org/dc/elements/1.1/title> "Language processing with Perl and Prolog" .
+<http://my.perl.books/record/795215282> <http://purl.org/dc/elements/1.1/contributor> "Quigley, Ellie" ;
+	<http://purl.org/dc/elements/1.1/date> "2015" ;
+	<http://purl.org/dc/elements/1.1/identifier> <urn:isbn:978-0-13-376081-1> ;
+	<http://purl.org/dc/elements/1.1/language> "eng" ;
+	<http://purl.org/dc/elements/1.1/publisher> "Upper Saddle River, NJ [u.a.] : Prentice-Hall/Pearson" ;
+	<http://purl.org/dc/elements/1.1/subject> "005.13/3" ;
+	<http://purl.org/dc/elements/1.1/title> "Perl by example" .

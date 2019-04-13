@@ -1,0 +1,7 @@
+# reject all items not conforming to default MARC schema
+# and add IDs of faulty records to a CSV file 
+unless valid(.,MARC)
+    add_to_exporter(.,MARC,type:MARCMaker,file:{{filename}}.mrk)
+    add_to_exporter(.,CSV,header:1,fields:_id,file:{{filename}}.csv)
+    reject()
+end

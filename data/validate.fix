@@ -1,0 +1,9 @@
+# reject all items not conforming to default MARC schema
+# and add IDs of faulty records to a CSV file 
+validate(.,MARC)
+if exists(errors)
+    copy_field(_id,errors.$append)
+    add_to_exporter(errors,JSON,line_delimited:1,file:{{filename}}.jsonl)
+    add_to_exporter(.,MARC,type:MARCMaker,file:{{filename}}.mrk)
+    reject()
+end

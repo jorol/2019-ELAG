@@ -1,0 +1,2576 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                13.3475136,
+                52.5312448
+            ],
+            "type": "Point"
+        },
+        "id": "node/29071031",
+        "properties": {
+            "@id": "node/29071031",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "33",
+            "addr:postcode": "10559",
+            "addr:street": "Perleberger Straße",
+            "addr:suburb": "Moabit",
+            "amenity": "library",
+            "description": "Mo.-Fr. 11.00 - 19.30 Uhr, Sa. 10.00 - 14.00 Uhr",
+            "name": "Bruno-Lösche-Bibliothek",
+            "ref:isil": "DE-B707",
+            "website": "http://www.berlin.de/citybibliothek/bibliotheken/loesche/",
+            "wheelchair": "limited",
+            "wheelchair:description": "Hat eine Rampe durch die Aktion www.tausendundeinerampe.de"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4708382,
+                52.5307772
+            ],
+            "type": "Point"
+        },
+        "id": "node/60848456",
+        "properties": {
+            "@id": "node/60848456",
+            "amenity": "library",
+            "name": "Anton-Saefkow-Bibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3711312,
+                52.5074304
+            ],
+            "type": "Point"
+        },
+        "id": "node/73696619",
+        "properties": {
+            "@id": "node/73696619",
+            "amenity": "library",
+            "layer": "3",
+            "name": "Staatsbibliothek zu Berlin",
+            "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00",
+            "ref:isil": "DE-1a",
+            "website": "http://staatsbibliothek-berlin.de/",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4040633,
+                52.5160206
+            ],
+            "type": "Point"
+        },
+        "id": "node/89275152",
+        "properties": {
+            "@id": "node/89275152",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:postcode": "10178",
+            "addr:street": "Breite Straße",
+            "amenity": "library",
+            "name": "Berliner Stadtbibliothek",
+            "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00",
+            "ref:isil": "DE-109",
+            "website": "http://www.zlb.de/",
+            "wheelchair": "yes",
+            "wikipedia:de": "Berliner_Stadtbibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2614618,
+                52.3010781
+            ],
+            "type": "Point"
+        },
+        "id": "node/151213540",
+        "properties": {
+            "@id": "node/151213540",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "ref:isil": "DE-533"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.538715,
+                52.5281578
+            ],
+            "type": "Point"
+        },
+        "id": "node/203557001",
+        "properties": {
+            "@id": "node/203557001",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "4",
+            "addr:postcode": "12681",
+            "addr:street": "Helene-Weigel-Platz",
+            "addr:suburb": "Marzahn",
+            "amenity": "library",
+            "image": "http://bilder.berlin-platz.de/2010-05-08/P1000036.JPG",
+            "name": "Stadtteilbibliothek \"Erich Weinert\"",
+            "phone": "+49305429251",
+            "website": "http://www.stb-mh.de/Stadtteilbibliothek-Erich-Weinert.html",
+            "wheelchair": "limited",
+            "wheelchair:description": "Zugang ohne Stufen"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2888211,
+                52.5380232
+            ],
+            "type": "Point"
+        },
+        "id": "node/256922190",
+        "properties": {
+            "@id": "node/256922190",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "24",
+            "addr:postcode": "13627",
+            "addr:street": "Halemweg",
+            "addr:suburb": "Charlottenburg-Nord",
+            "amenity": "library",
+            "layer": "1",
+            "name": "Stadtteilbibliothek Halemweg",
+            "ref:isil": "none"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2013864,
+                52.5361334
+            ],
+            "type": "Point"
+        },
+        "id": "node/257708789",
+        "properties": {
+            "@id": "node/257708789",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housename": "Stadtbücherei Spandau",
+            "addr:housenumber": "13",
+            "addr:postcode": "13597",
+            "addr:street": "Carl-Schurz-Straße",
+            "addr:suburb": "Spandau",
+            "amenity": "library",
+            "name": "Stadtbibliothek Spandau",
+            "phone": "030 90279 5511",
+            "website": "http://www.berlin.de/ba-spandau/verwaltung/abt/bks/bezirkszentralbibliothek.html",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5709435,
+                52.4015791
+            ],
+            "type": "Point"
+        },
+        "id": "node/259601916",
+        "properties": {
+            "@id": "node/259601916",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "33",
+            "addr:postcode": "12526",
+            "addr:street": "Dahmestraße",
+            "addr:suburb": "Bohnsdorf",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Bohnsdorf",
+            "phone": "+49902975575",
+            "website": "http://www.sb-tk.de/web/bibliotheken.php?bid=16"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.6199046,
+                52.3744012
+            ],
+            "type": "Point"
+        },
+        "id": "node/262879310",
+        "properties": {
+            "@id": "node/262879310",
+            "addr:city": "Eichwalde",
+            "addr:country": "DE",
+            "addr:housenumber": "54",
+            "addr:postcode": "15732",
+            "addr:street": "Grünauer Straße",
+            "amenity": "library",
+            "name": "Gemeindebibliothek Eichwalde",
+            "opening_hours": "Mo 10:00-16:00; Tu 10:00-13:00,14:00-19:00; Th 10:00-13:00,14:00-18:00;Fr 10:00-14:00"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.556704,
+                52.54722
+            ],
+            "type": "Point"
+        },
+        "id": "node/263679066",
+        "properties": {
+            "@id": "node/263679066",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:postcode": "12679",
+            "amenity": "library",
+            "image": "http://www.berlin-platz.de/uploads/Bilder/2010-06-18/P1000253.JPG",
+            "name": "Bezirkszentralbibliothek Mark Twain",
+            "opening_hours": "Mo-Tu, Th-Fr 10:00-19:15; We 14:00-19:15; Sa 10:00-14:00",
+            "ref:isil": "DE-B2228",
+            "website": "http://www.stb-mh.de/",
+            "wheelchair": "yes",
+            "wheelchair:description": "Die obere Etage der Bibliothek ist über Umwege durch das Treppenhaus erreichbar."
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.369701,
+                52.5068092
+            ],
+            "type": "Point"
+        },
+        "id": "node/264776935",
+        "properties": {
+            "@id": "node/264776935",
+            "amenity": "library",
+            "name": "Ibero-Amerikanisches Institut",
+            "ref:isil": "DE-204",
+            "website": "http://www.iai.spk-berlin.de/",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3992914,
+                52.5317919
+            ],
+            "type": "Point"
+        },
+        "id": "node/266540876",
+        "properties": {
+            "@id": "node/266540876",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "181",
+            "addr:postcode": "10119",
+            "addr:street": "Brunnenstraße",
+            "addr:suburb": "Mitte",
+            "amenity": "library",
+            "name": "Bezirkszentralbibliothek Philipp Schaeffer",
+            "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-14:00",
+            "ref:isil": "DE-B456",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.6127893,
+                52.5055546
+            ],
+            "type": "Point"
+        },
+        "id": "node/266629485",
+        "properties": {
+            "@id": "node/266629485",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Mahlsdorf"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.8164463,
+                52.5382065
+            ],
+            "type": "Point"
+        },
+        "id": "node/268568795",
+        "properties": {
+            "@id": "node/268568795",
+            "amenity": "library",
+            "created_by": "Potlatch 0.9c",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2883886,
+                52.4517662
+            ],
+            "type": "Point"
+        },
+        "id": "node/271685475",
+        "properties": {
+            "@id": "node/271685475",
+            "amenity": "library",
+            "name": "Philologische Bibliothek",
+            "name:en": "Philological Library",
+            "opening_hours": "Mo-Fr 09:00-22:00; Sa,Su 10:00-18:00; PH off",
+            "operator": "Freie Universität Berlin",
+            "ref": "DE-188-920",
+            "wheelchair": "yes",
+            "wikipedia:de": "Philologische_Bibliothek_der_Freien_Universität_Berlin"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2971129,
+                52.4573006
+            ],
+            "type": "Point"
+        },
+        "id": "node/271875991",
+        "properties": {
+            "@id": "node/271875991",
+            "amenity": "library",
+            "name": "Fachbereichsbibliothek",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4528367,
+                52.5477387
+            ],
+            "type": "Point"
+        },
+        "id": "node/281375131",
+        "properties": {
+            "@id": "node/281375131",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "41",
+            "addr:postcode": "13088",
+            "addr:street": "Bizetstraße",
+            "addr:suburb": "Weißensee",
+            "amenity": "library",
+            "name": "Wolfdietrich-Schnurre-Bibliothek",
+            "website": "http://www.berlin.de/ba-pankow/stadtbibliothek/wolfdietrich-schnurre/",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4917041,
+                52.616548
+            ],
+            "type": "Point"
+        },
+        "id": "node/293137702",
+        "properties": {
+            "@id": "node/293137702",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Karow",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.258973,
+                52.4036162
+            ],
+            "type": "Point"
+        },
+        "id": "node/298063780",
+        "properties": {
+            "@id": "node/298063780",
+            "addr:country": "DE",
+            "addr:housenumber": "2a",
+            "addr:street": "Jahnstraße",
+            "amenity": "library",
+            "name": "Bibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2056565,
+                52.6398401
+            ],
+            "type": "Point"
+        },
+        "id": "node/307639866",
+        "properties": {
+            "@id": "node/307639866",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.414088,
+                52.5492616
+            ],
+            "type": "Point"
+        },
+        "id": "node/308811018",
+        "properties": {
+            "@id": "node/308811018",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "75",
+            "addr:postcode": "10439",
+            "addr:street": "Schönhauser Allee",
+            "addr:suburb": "Prenzlauer Berg",
+            "amenity": "library",
+            "name": "Bettina von Arnim Bibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3548176,
+                52.5449072
+            ],
+            "type": "Point"
+        },
+        "id": "node/311580166",
+        "properties": {
+            "@id": "node/311580166",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:postcode": "13353",
+            "addr:street": "Luxemburger Straße",
+            "amenity": "library",
+            "name": "Campusbibliothek",
+            "ref:isil": "none",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5029845,
+                52.509668
+            ],
+            "type": "Point"
+        },
+        "id": "node/316868316",
+        "properties": {
+            "@id": "node/316868316",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "36",
+            "addr:postcode": "10317",
+            "addr:street": "Einbecker Straße",
+            "addr:suburb": "Rummelsburg",
+            "amenity": "library",
+            "name": "Esperanto-Haus",
+            "name:de": "Esperanto-Haus",
+            "name:en": "Esperanto House",
+            "name:eo": "Esperanto-Domo",
+            "website": "http://www.esperanto.de/",
+            "wikipedia": "eo:Germana Esperanta Kultura Centro"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4813674,
+                52.5134373
+            ],
+            "type": "Point"
+        },
+        "id": "node/323991172",
+        "properties": {
+            "@id": "node/323991172",
+            "amenity": "library",
+            "name": "Egon-Erwin-Kisch",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4327729,
+                52.4819616
+            ],
+            "type": "Point"
+        },
+        "id": "node/333343782",
+        "properties": {
+            "@id": "node/333343782",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "66",
+            "addr:postcode": "12043",
+            "addr:street": "Karl-Marx-Straße",
+            "addr:suburb": "Neukölln",
+            "alt_name": "Stadtbibliothek Neukölln, Bezirkszentralbibliothek",
+            "amenity": "library",
+            "name": "Helene-Nathan-Bibliothek",
+            "ref:isil": "DE-B700",
+            "website": "http://www.stadtbibliothek-neukoelln.de/",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2899635,
+                52.4534117
+            ],
+            "type": "Point"
+        },
+        "id": "node/343312902",
+        "properties": {
+            "@id": "node/343312902",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "16",
+            "addr:postcode": "14195",
+            "addr:street": "Otto-von-Simson-Straße",
+            "addr:suburb": "Dahlem",
+            "amenity": "library",
+            "name": "Bibliothek Erziehungswissenschaft und Psychologie",
+            "phone": "+493083856384",
+            "website": "http://www.ub.fu-berlin.de/fbb/ewiss-psy/ewibib.html",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3201489,
+                52.4573003
+            ],
+            "type": "Point"
+        },
+        "id": "node/345162417",
+        "properties": {
+            "@id": "node/345162417",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "3",
+            "addr:postcode": "12165",
+            "addr:street": "Grunewaldstraße",
+            "addr:suburb": "Steglitz",
+            "amenity": "library",
+            "name": "Ingeborg-Drewitz-Bibliothek",
+            "ref:isil": "DE-B702",
+            "website": "http://www.stadtbibliothek-steglitz-zehlendorf.de/ingeborgdrewitz.html",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4482718,
+                52.5050869
+            ],
+            "type": "Point"
+        },
+        "id": "node/356786775",
+        "properties": {
+            "@id": "node/356786775",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "34-38",
+            "addr:postcode": "10243",
+            "addr:street": "Warschauer Straße",
+            "amenity": "library",
+            "name": "Bibliothek für Bildungsgeschichtliche Forschung",
+            "operator": "Deutsches Institut für Internationale Pädagogische Forschung (DIPF)",
+            "phone": "+49 30.29336012",
+            "research_institution": "yes",
+            "website": "http://www.bbf.dipf.de",
+            "wikipedia": "de:Bibliothek f%C3%BCr Bildungsgeschichtliche Forschung"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5928366,
+                52.3595027
+            ],
+            "type": "Point"
+        },
+        "id": "node/365322133",
+        "properties": {
+            "@id": "node/365322133",
+            "amenity": "library",
+            "name": "Gemaindebibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2909704,
+                52.6914744
+            ],
+            "type": "Point"
+        },
+        "id": "node/388651429",
+        "properties": {
+            "@id": "node/388651429",
+            "amenity": "library",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5885888,
+                52.6752701
+            ],
+            "type": "Point"
+        },
+        "id": "node/392073501",
+        "properties": {
+            "@id": "node/392073501",
+            "addr:city": "Bernau",
+            "addr:housenumber": "43 b",
+            "addr:postcode": "16321",
+            "addr:street": "Breitscheidstraße",
+            "amenity": "library",
+            "name": "Stadtbibliothek Bernau",
+            "phone": "03338763520",
+            "website": "http://www.bernau.de",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4629221,
+                52.270793
+            ],
+            "type": "Point"
+        },
+        "id": "node/393935086",
+        "properties": {
+            "@id": "node/393935086",
+            "amenity": "library",
+            "name": "Bibliothek Großmachnow"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5330917,
+                52.6599157
+            ],
+            "type": "Point"
+        },
+        "id": "node/395599328",
+        "properties": {
+            "@id": "node/395599328",
+            "amenity": "library",
+            "name": "Bibliothek Panketal",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.623925,
+                52.2977285
+            ],
+            "type": "Point"
+        },
+        "id": "node/429251441",
+        "properties": {
+            "@id": "node/429251441",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3954202,
+                52.33164
+            ],
+            "type": "Point"
+        },
+        "id": "node/429273703",
+        "properties": {
+            "@id": "node/429273703",
+            "amenity": "library",
+            "name": "Gemeindebibliothek Blankenfelde-Mahlow",
+            "opening_hours": "Mo,Fr 09:00-12:00,13:00-18:00;Tu,Th 13:00-18:00;Sa 09:00-13:00",
+            "ref:isil": "DE-1268"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.6122316,
+                52.3405327
+            ],
+            "type": "Point"
+        },
+        "id": "node/439225024",
+        "properties": {
+            "@id": "node/439225024",
+            "amenity": "library"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.6214013,
+                52.4548013
+            ],
+            "type": "Point"
+        },
+        "id": "node/439229151",
+        "properties": {
+            "@id": "node/439229151",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "12587",
+            "addr:street": "Peter-Hille-Straße",
+            "addr:suburb": "Friedrichshagen",
+            "amenity": "library",
+            "name": "Johannes-Bobrowski-Bibliothek",
+            "opening_hours": "Mo,We,Fr 11:00-18:00; Tu 13:00-19:00; Th 13:00-18:00",
+            "website": "http://www.sb-tk.de",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4716086,
+                52.1720397
+            ],
+            "type": "Point"
+        },
+        "id": "node/443620452",
+        "properties": {
+            "@id": "node/443620452",
+            "amenity": "library",
+            "fax": "+49 33702 71202",
+            "name": "Bibliothek Denkmalpflege",
+            "opening_hours": "Mo 10:00-16:00; Tu 10:00-15:00; Th 10:00-15:00; Fr 10:00-14:00",
+            "phone": "+49 33702 71200",
+            "ref:isil": "DE-B685",
+            "website": "http://www.bldam.brandenburg.de"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4718146,
+                52.1734978
+            ],
+            "type": "Point"
+        },
+        "id": "node/443621565",
+        "properties": {
+            "@id": "node/443621565",
+            "amenity": "library",
+            "name": "Bibliothek Archäologie",
+            "ref:isil": "DE-B685"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3988397,
+                52.3857806
+            ],
+            "type": "Point"
+        },
+        "id": "node/444731308",
+        "properties": {
+            "@id": "node/444731308",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Lichenrade",
+            "opening_hours": "Mo-Fr 11:00-19:00",
+            "website": "http://www.berlin.de/ba-tempelhof-schoeneberg/organisationseinheit/stadtbibliothek/lichtenrade.html",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.308865,
+                52.5171056
+            ],
+            "type": "Point"
+        },
+        "id": "node/444994924",
+        "properties": {
+            "@id": "node/444994924",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "amenity": "library",
+            "name": "Heinrich-Schulz-Bibliothek",
+            "source": "survey",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.7709897,
+                52.5236825
+            ],
+            "type": "Point"
+        },
+        "id": "node/471342058",
+        "properties": {
+            "@id": "node/471342058",
+            "amenity": "library",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5314264,
+                52.4310682
+            ],
+            "type": "Point"
+        },
+        "id": "node/482710823",
+        "properties": {
+            "@id": "node/482710823",
+            "amenity": "library",
+            "name": "Zweigbibliothek Naturwissenschaften",
+            "operator": "Humboldt-Universität zu Berlin",
+            "ref:isil": "DE-11-87",
+            "website": "http://www.ub.hu-berlin.de/standorte/erwin-schroedinger-zentrum",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5241525,
+                52.4557691
+            ],
+            "type": "Point"
+        },
+        "id": "node/486517226",
+        "properties": {
+            "@id": "node/486517226",
+            "amenity": "library",
+            "name": "Bibliothek Campus Wilhelminenhof",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.0512667,
+                52.4134735
+            ],
+            "type": "Point"
+        },
+        "id": "node/490260439",
+        "properties": {
+            "@id": "node/490260439",
+            "amenity": "library",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.0633212,
+                52.4175442
+            ],
+            "type": "Point"
+        },
+        "id": "node/491584462",
+        "properties": {
+            "@id": "node/491584462",
+            "amenity": "library",
+            "name": "Theodor-Fontane-Archiv",
+            "opening_hours": "Mo-Th 9:00-16:00;Su 9:00-15:00",
+            "website": "http://www.fontanearchiv.de"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.335659,
+                52.4725255
+            ],
+            "type": "Point"
+        },
+        "id": "node/495237744",
+        "properties": {
+            "@id": "node/495237744",
+            "amenity": "library",
+            "name": "Gerhart-Hauptmann-Bibliothek",
+            "ref:isil": "fixme",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5120587,
+                52.5280989
+            ],
+            "type": "Point"
+        },
+        "id": "node/507660382",
+        "properties": {
+            "@id": "node/507660382",
+            "amenity": "library"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.313449,
+                52.4713483
+            ],
+            "type": "Point"
+        },
+        "id": "node/529557633",
+        "properties": {
+            "@id": "node/529557633",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:postcode": "14197",
+            "amenity": "library",
+            "layer": "1",
+            "name": "Eberhard-Alexander-Burgh-Bibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3964534,
+                52.5195357
+            ],
+            "type": "Point"
+        },
+        "id": "node/538718199",
+        "properties": {
+            "@id": "node/538718199",
+            "amenity": "library",
+            "name": "Universitätsbibliothek",
+            "operator": "Humboldt-Universität zu Berlin",
+            "ref:isil": "fixme",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3916614,
+                52.5192838
+            ],
+            "type": "Point"
+        },
+        "id": "node/538785717",
+        "properties": {
+            "@id": "node/538785717",
+            "amenity": "library",
+            "name": "K.-G.-Saur-Bibliothek",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3828172,
+                52.4851786
+            ],
+            "type": "Point"
+        },
+        "id": "node/560823423",
+        "properties": {
+            "@id": "node/560823423",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "18-20",
+            "addr:postcode": "10965",
+            "addr:street": "Dudenstraße",
+            "addr:suburb": "Kreuzberg",
+            "amenity": "library",
+            "name": "Friedrich-von-Raumer-Bibliothek",
+            "opening_hours": "Mo-Th 13:00-19:00; We 11:00-17:00; Fr 13:00-17:00",
+            "phone": "+493050587613",
+            "website": "http://www.berlin.de/citybibliothek/bibliotheken/dudenstr/index.html",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4883946,
+                52.5416915
+            ],
+            "type": "Point"
+        },
+        "id": "node/573816270",
+        "properties": {
+            "@id": "node/573816270",
+            "amenity": "library",
+            "name": "Bücherstube \"Mathilde Jacob\"",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2403921,
+                52.7561872
+            ],
+            "type": "Point"
+        },
+        "id": "node/585058316",
+        "properties": {
+            "@id": "node/585058316",
+            "amenity": "library",
+            "opening_hours": "Mo,Tu,Th,Fr 11:00-18:00; Sa 09:00-13:00",
+            "ref:isil": "DE-508"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2919534,
+                52.4571781
+            ],
+            "type": "Point"
+        },
+        "id": "node/586328524",
+        "properties": {
+            "@id": "node/586328524",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "7-9",
+            "addr:postcode": "14195",
+            "addr:street": "Lansstraße",
+            "addr:suburb": "Dahlem",
+            "amenity": "library",
+            "contact:email": "library@jfki.fu-berlin.de",
+            "contact:fax": "+49 (30) 838-52860",
+            "contact:phone": "+49 (30) 838-52862",
+            "contact:website": "http://www.jfki.fu-berlin.de/library",
+            "name": "Bibliothek des John-F.-Kennedy-Instituts",
+            "name:en": "Library of the John F. Kennedy Institute",
+            "operator": "Freie Universität Berlin",
+            "ref:isil": "DE-188-144"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5304903,
+                52.6742607
+            ],
+            "type": "Point"
+        },
+        "id": "node/599557492",
+        "properties": {
+            "@id": "node/599557492",
+            "addr:city": "Bernau bei Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "25a",
+            "addr:postcode": "16321",
+            "addr:street": "Zepernicker Straße",
+            "amenity": "library",
+            "name": "Bibliothek Schönow",
+            "opening_hours": "Mo 13:00-16:00; Tu,Th 10:00-12:00,14:00-18:00"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.7012118,
+                52.4794058
+            ],
+            "type": "Point"
+        },
+        "id": "node/609820670",
+        "properties": {
+            "@id": "node/609820670",
+            "addr:city": "Schöneiche bei Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "5",
+            "addr:postcode": "15566",
+            "addr:street": "Dorfaue",
+            "amenity": "library",
+            "name": "Gemeindebibliothek",
+            "opening_hours": "Mo 10:00-15:00; Tu 13:00-18:00; Th 13:00-18:00; Fr 10:00-15:00; Sa[1] 10:00-12:00",
+            "phone": "+49-30-6490110",
+            "website": "www.gemeindebibliothek-schoeneiche.de"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4936826,
+                52.6356143
+            ],
+            "type": "Point"
+        },
+        "id": "node/618048288",
+        "properties": {
+            "@id": "node/618048288",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Buch"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3932385,
+                52.5164298
+            ],
+            "type": "Point"
+        },
+        "id": "node/639552895",
+        "properties": {
+            "@id": "node/639552895",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "10117",
+            "addr:street": "Bebelplatz",
+            "addr:suburb": "Mitte",
+            "amenity": "library",
+            "contact:phone": "+49 30 2093-3374",
+            "contact:website": "http://info.ub.hu-berlin.de/bibliothek/zweigbibliotheken/jurist/jurist.html",
+            "name": "HU Berlin - Zweigbibliothek Rechtswissenschaft",
+            "opening_hours": "Mo-Fr 09:00-21:30; Sa 09:00-18:00; Su 13:00-18:00",
+            "ref:isil": "DE-11-68",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.7312823,
+                52.6311978
+            ],
+            "type": "Point"
+        },
+        "id": "node/648465837",
+        "properties": {
+            "@id": "node/648465837",
+            "amenity": "library",
+            "name": "Bibliothek Werneuchen"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3937536,
+                52.5261083
+            ],
+            "type": "Point"
+        },
+        "id": "node/665121783",
+        "properties": {
+            "@id": "node/665121783",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "32",
+            "addr:street": "Tucholskystraße",
+            "addr:suburb": "Mitte",
+            "amenity": "library",
+            "name": "Comicbibliothek Renate",
+            "phone": "+49 30 97005815; +49 30 97005816",
+            "website": "http://www.renatecomics.de/",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.8207939,
+                52.8345994
+            ],
+            "type": "Point"
+        },
+        "id": "node/672801933",
+        "properties": {
+            "@id": "node/672801933",
+            "addr:city": "Eberswalde",
+            "addr:housenumber": "40",
+            "addr:street": "Breite Straße",
+            "amenity": "library",
+            "name": "Stadtbibliothek Eberswalde",
+            "postal_code": "16225",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4411054,
+                52.5417381
+            ],
+            "type": "Point"
+        },
+        "id": "node/737212457",
+        "properties": {
+            "@id": "node/737212457",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "87",
+            "addr:postcode": "10409",
+            "addr:street": "Greifswalder Straße",
+            "addr:suburb": "Prenzlauer Berg",
+            "amenity": "library",
+            "name": "Stadtbibliothek Pankow, Hauptbibliothek 'Heinrich Böll'",
+            "opening_hours": "Mo 10:00-20:00; Tu, Th-Fr 10:00-19:00; We 13:00-19:00; Sa 10:00-13:00",
+            "ref:isil": "DE-B457",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2879041,
+                52.669121
+            ],
+            "type": "Point"
+        },
+        "id": "node/747882909",
+        "properties": {
+            "@id": "node/747882909",
+            "amenity": "library",
+            "name": "Stadtbibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.1390844,
+                52.6493992
+            ],
+            "type": "Point"
+        },
+        "id": "node/768748868",
+        "properties": {
+            "@id": "node/768748868",
+            "amenity": "library",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4071411,
+                52.5049965
+            ],
+            "type": "Point"
+        },
+        "id": "node/775814877",
+        "properties": {
+            "@id": "node/775814877",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "72",
+            "addr:postcode": "10969",
+            "addr:street": "Oranienstraße",
+            "amenity": "library",
+            "name": "Bona-Peiser-Bibliothek",
+            "phone": "030 50586414",
+            "website": "http://www.berlin.de/citybibliothek/bibliotheken/oranienstr",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2880353,
+                52.4775517
+            ],
+            "type": "Point"
+        },
+        "id": "node/795561505",
+        "properties": {
+            "@id": "node/795561505",
+            "amenity": "library",
+            "entrance": "yes",
+            "name": "Adolf-Reichwein-Bibliothek",
+            "website": "http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/bibliotheken/adolfreichweinbibliothek.html",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3929002,
+                52.5182172
+            ],
+            "type": "Point"
+        },
+        "id": "node/1070809009",
+        "properties": {
+            "@id": "node/1070809009",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "6",
+            "addr:postcode": "10117",
+            "addr:street": "Unter den Linden",
+            "addr:suburb": "Mitte",
+            "amenity": "library",
+            "name": "Universitätsbibliothek, Zweigbibliothek Klassische Archäologie",
+            "opening_hours": "Mo-Th 10:00-19:00, Fr 10:00-16:00; PH off",
+            "ref:isil": "DE-11-88",
+            "website": "http://www.ub.hu-berlin.de/standorte/hauptgebaeude-archaeologie",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.386705,
+                52.5183016
+            ],
+            "type": "Point"
+        },
+        "id": "node/1070809020",
+        "properties": {
+            "@id": "node/1070809020",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "65",
+            "addr:postcode": "10117",
+            "addr:street": "Dorotheenstraße",
+            "addr:suburb": "Mitte",
+            "amenity": "library",
+            "name": "Humboldt-Universität zu Berlin, Universitätsbibliothek, Zweigbibliothek Fremdsprachliche Philologien, Bibliothek Großbritannien-Zentrum",
+            "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-18:00; PH off",
+            "ref:isil": "DE-11-149",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.0560134,
+                52.3967082
+            ],
+            "type": "Point"
+        },
+        "id": "node/1259544220",
+        "properties": {
+            "@id": "node/1259544220",
+            "amenity": "library",
+            "name": "Zentrum für Zeithistorische Forschung (ZZF) - Bibliothek",
+            "ref:isil": "DE-Po82"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.1196669,
+                52.3896648
+            ],
+            "type": "Point"
+        },
+        "id": "node/1333514177",
+        "properties": {
+            "@id": "node/1333514177",
+            "addr:city": "Potsdam",
+            "addr:housenumber": "20",
+            "addr:postcode": "14482",
+            "addr:street": "Marlene-Dietrich-Allee",
+            "addr:suburb": "Babelsberg",
+            "amenity": "library",
+            "name": "Deutsches Rundfunkarchiv",
+            "phone": "+49 331 5812-0",
+            "website": "http://www.dra.de",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5210463,
+                52.4976993
+            ],
+            "type": "Point"
+        },
+        "id": "node/1346361343",
+        "properties": {
+            "@id": "node/1346361343",
+            "amenity": "library",
+            "name": "Bodo-Uhse-Bibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4123577,
+                52.568454
+            ],
+            "type": "Point"
+        },
+        "id": "node/1356847676",
+        "properties": {
+            "@id": "node/1356847676",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "120",
+            "addr:postcode": "13187",
+            "addr:street": "Berliner Straße",
+            "addr:suburb": "Pankow",
+            "amenity": "library",
+            "description": "ehemaliges Jüdische Waisenhaus",
+            "name": "Janusz-Korczak-Bibliothek",
+            "ref:isil": "DE-B462",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2939985,
+                52.5146284
+            ],
+            "type": "Point"
+        },
+        "id": "node/1362209543",
+        "properties": {
+            "@id": "node/1362209543",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "10",
+            "addr:postcode": "14059",
+            "addr:street": "Nehringstraße",
+            "addr:suburb": "Charlottenburg",
+            "amenity": "library",
+            "name": "Ingeborg-Bachman-Bibliothek",
+            "phone": "+4930902924313",
+            "website": "http://www.berlin.de/ba-charlottenburg-wilmersdorf/org/bibliotheken/biblio.html",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2947799,
+                52.4613917
+            ],
+            "type": "Point"
+        },
+        "id": "node/1425169658",
+        "properties": {
+            "@id": "node/1425169658",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "20",
+            "addr:postcode": "14195",
+            "addr:street": "Koserstraße",
+            "addr:suburb": "Dahlem",
+            "amenity": "library",
+            "name": "Bibliothek des Friedrich-Meinecke-Instituts und des Kunsthistorisches Instituts",
+            "phone": "+493083854550",
+            "website": "http://www.ub.fu-berlin.de/fbb/gesch-kultur/kug809.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2199129,
+                52.4032275
+            ],
+            "type": "Point"
+        },
+        "id": "node/1469991062",
+        "properties": {
+            "@id": "node/1469991062",
+            "addr:city": "Kleinmachnow",
+            "addr:country": "DE",
+            "addr:housename": "Rathaus Kleinmachnow",
+            "addr:housenumber": "10",
+            "addr:postcode": "14532",
+            "addr:street": "Adolf-Grimme-Ring",
+            "amenity": "library",
+            "contact:email": "bibliothek@kleinmachnow.de",
+            "contact:phone": "+49 33203 8774115",
+            "name": "Öffentliche Bibliothek Kleinmachnow",
+            "opening_hours": "Mo,Fr 12:00-18:00; Tu 12:00-20:00; We off; Th 10:00-18:00; Sa[1] 10:00-13:00",
+            "ref:isil": "DE-1349",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4362136,
+                52.4925504
+            ],
+            "type": "Point"
+        },
+        "id": "node/1472976631",
+        "properties": {
+            "@id": "node/1472976631",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "13",
+            "addr:postcode": "10999",
+            "addr:street": "Glogauer Straße",
+            "addr:suburb": "Kreuzberg",
+            "amenity": "library",
+            "name": "Else-Ury-Familienbibliothek",
+            "website": "http://www.berlin.de/citybibliothek/bibliotheken/glogauer/index.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3272437,
+                52.5119205
+            ],
+            "type": "Point"
+        },
+        "id": "node/1481377095",
+        "properties": {
+            "@id": "node/1481377095",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housename": "H",
+            "addr:housenumber": "135",
+            "addr:postcode": "10623",
+            "addr:street": "Straße des 17. Juni",
+            "addr:suburb": "Charlottenburg",
+            "amenity": "library",
+            "level": "5",
+            "name": "Die Bibliothek Wirtschaft und Management",
+            "old_name": "WiWiDok: Fachbibliothek für Wirtschaft, Recht & Statistik",
+            "phone": "+4930314 22601",
+            "website": "http://www.wm.tu-berlin.de/menue/Einrichtungen/Bibliotheken/WiWiDok/WiWiDok/",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3194555,
+                52.4844921
+            ],
+            "type": "Point"
+        },
+        "id": "node/1496353536",
+        "properties": {
+            "@id": "node/1496353536",
+            "amenity": "library"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4484817,
+                52.2165192
+            ],
+            "type": "Point"
+        },
+        "id": "node/1581110192",
+        "properties": {
+            "@id": "node/1581110192",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2555777,
+                52.4320151
+            ],
+            "type": "Point"
+        },
+        "id": "node/1636234501",
+        "properties": {
+            "@id": "node/1636234501",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "14163",
+            "addr:street": "Nentershäuser Platz",
+            "addr:suburb": "Zehlendorf",
+            "amenity": "library",
+            "name": "Gottfried-Benn-Bibliothek",
+            "phone": "030 902995458",
+            "ref:isil": "DE-B712",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.0593412,
+                52.3971134
+            ],
+            "type": "Point"
+        },
+        "id": "node/1666159622",
+        "properties": {
+            "@id": "node/1666159622",
+            "amenity": "library",
+            "name": "Stadt- und Landesbibliothek Potsdam",
+            "ref:isil": "DE-186",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4253993,
+                52.5285578
+            ],
+            "type": "Point"
+        },
+        "id": "node/1684737379",
+        "properties": {
+            "@id": "node/1684737379",
+            "amenity": "library",
+            "name": "Bibliothek der Freien",
+            "website": "http://www.bibliothekderfreien.de/",
+            "wikipedia": "de:Bibliothek der Freien"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3957618,
+                52.5127362
+            ],
+            "type": "Point"
+        },
+        "id": "node/1685672555",
+        "properties": {
+            "@id": "node/1685672555",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "41",
+            "addr:postcode": "10117",
+            "addr:street": "Mohrenstraße",
+            "addr:suburb": "Mitte",
+            "amenity": "library",
+            "name": "Archiv für Alternativkultur",
+            "website": "http://www.fis-kultur.net/alternativkultur/",
+            "wikipedia": "de:Archiv für Alternativkultur"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3881574,
+                52.4636298
+            ],
+            "type": "Point"
+        },
+        "id": "node/1704868069",
+        "properties": {
+            "@id": "node/1704868069",
+            "amenity": "library",
+            "name": "Bücherei"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.0299571,
+                52.3109433
+            ],
+            "type": "Point"
+        },
+        "id": "node/1704936300",
+        "properties": {
+            "@id": "node/1704936300",
+            "addr:housenumber": "64",
+            "addr:postcode": "14552",
+            "addr:street": "Potsdamer Straße",
+            "amenity": "library",
+            "name": "Bibliothek",
+            "opening_hours": "Tu 10:00-12:00; Th 16:00-18:00",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3301158,
+                52.498336
+            ],
+            "type": "Point"
+        },
+        "id": "node/1738390472",
+        "properties": {
+            "@id": "node/1738390472",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "1-12",
+            "addr:postcode": "10719",
+            "addr:street": "Bundesallee",
+            "amenity": "library",
+            "name": "Stadtteil- und Musikbibliothek Charlottenburg"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2773453,
+                52.4482023
+            ],
+            "type": "Point"
+        },
+        "id": "node/1775857631",
+        "properties": {
+            "@id": "node/1775857631",
+            "amenity": "library",
+            "name": "Universitätsbibliothek der Freien Universität Berlin",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4144901,
+                52.5431682
+            ],
+            "type": "Point"
+        },
+        "id": "node/1784674880",
+        "properties": {
+            "@id": "node/1784674880",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "78/79",
+            "addr:postcode": "10437",
+            "addr:street": "Pappelallee",
+            "addr:suburb": "Prenzlauer Berg",
+            "amenity": "library",
+            "name": "mobilesuite Coworking Berlin",
+            "office": "company",
+            "website": "http://www2.mobilesuite.de/coworking/standort/berlin-prenzlauer-berg",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                12.873371,
+                52.6044847
+            ],
+            "type": "Point"
+        },
+        "id": "node/1792482186",
+        "properties": {
+            "@id": "node/1792482186",
+            "amenity": "library",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2586101,
+                52.5106578
+            ],
+            "type": "Point"
+        },
+        "id": "node/1818848292",
+        "properties": {
+            "@id": "node/1818848292",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "45",
+            "addr:postcode": "14052",
+            "addr:street": "Westendallee",
+            "amenity": "library",
+            "name": "Johanna-Moosdorf-Bibliothek",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4321724,
+                52.5328818
+            ],
+            "type": "Point"
+        },
+        "id": "node/1863570970",
+        "properties": {
+            "@id": "node/1863570970",
+            "amenity": "library",
+            "name": "Kurt-Tucholsky-Bibliothek",
+            "website": "http://www.berlin.de/ba-pankow/stadtbibliothek/kurt-tucholsky/",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3118736,
+                52.489441
+            ],
+            "type": "Point"
+        },
+        "id": "node/1874529829",
+        "properties": {
+            "@id": "node/1874529829",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "176",
+            "addr:postcode": "10713",
+            "addr:street": "Hohenzollerndamm",
+            "addr:suburb": "Wilmersdorf",
+            "amenity": "library",
+            "contact:email": "info@artothek.charlottenburg-wilmersdorf.de",
+            "contact:phone": "+49 30 9029-16709",
+            "name": "Artothek",
+            "opening_hours": "Mo off ; Tu,Th,Fr 11:00-17:00 ; We 11:00-19:00",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2769658,
+                52.449221
+            ],
+            "type": "Point"
+        },
+        "id": "node/1933757018",
+        "properties": {
+            "@id": "node/1933757018",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "21",
+            "addr:postcode": "14195",
+            "addr:street": "Ihnestraße",
+            "amenity": "library",
+            "name": "Bibliothek für Sozialwissenschaften und Osteuropastudien, Stiller Lesesaal",
+            "operator": "Freie Universität Berlin",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.1302329,
+                52.3757762
+            ],
+            "type": "Point"
+        },
+        "id": "node/1944887322",
+        "properties": {
+            "@id": "node/1944887322",
+            "amenity": "library",
+            "name": "Bibliothek am Stern",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.357448,
+                52.5469037
+            ],
+            "type": "Point"
+        },
+        "id": "node/1988172871",
+        "properties": {
+            "@id": "node/1988172871",
+            "amenity": "library",
+            "name": "Schiller-Bibliothek",
+            "source": "survey",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.1922163,
+                52.724245
+            ],
+            "type": "Point"
+        },
+        "id": "node/2022762653",
+        "properties": {
+            "@id": "node/2022762653",
+            "amenity": "library",
+            "name": "Bibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.42105,
+                52.3260828
+            ],
+            "type": "Point"
+        },
+        "id": "node/2042627856",
+        "properties": {
+            "@id": "node/2042627856",
+            "amenity": "library"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3669367,
+                52.5085131
+            ],
+            "type": "Point"
+        },
+        "id": "node/2094774970",
+        "properties": {
+            "@id": "node/2094774970",
+            "amenity": "library",
+            "name": "Kunstbibliothek",
+            "opening_hours": "Mo-Fr 09:00-20:00"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2122263,
+                52.8142532
+            ],
+            "type": "Point"
+        },
+        "id": "node/2127973182",
+        "properties": {
+            "@id": "node/2127973182",
+            "amenity": "library",
+            "name": "Bibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3794636,
+                52.5536522
+            ],
+            "type": "Point"
+        },
+        "id": "node/2187557431",
+        "properties": {
+            "@id": "node/2187557431",
+            "amenity": "library",
+            "name": "Bibliothek am Luisenbad",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                12.93314,
+                52.3763319
+            ],
+            "type": "Point"
+        },
+        "id": "node/2194076663",
+        "properties": {
+            "@id": "node/2194076663",
+            "amenity": "library",
+            "name": "Stadtbibliothek",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.269494,
+                52.7154834
+            ],
+            "type": "Point"
+        },
+        "id": "node/2228953526",
+        "properties": {
+            "@id": "node/2228953526",
+            "addr:city": "Hohen Neuendorf",
+            "addr:country": "DE",
+            "addr:housenumber": "33",
+            "addr:street": "Bahnhofstraße",
+            "addr:suburb": "Borgsdorf",
+            "amenity": "library",
+            "email": "stadtbibliothek-borgsdorf@hohen-neuendorf.de",
+            "name": "Schulbibliothek Borgsdorf",
+            "operator": "Stadtbibliothek Hohen Neuendorf",
+            "phone": "+49 3303 213744"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.0340196,
+                52.3127055
+            ],
+            "type": "Point"
+        },
+        "id": "node/2247164657",
+        "properties": {
+            "@id": "node/2247164657",
+            "addr:housenumber": "27a",
+            "addr:street": "Langerwischer Straße",
+            "amenity": "library",
+            "description": "öffentlicher Bücherschrank \"Nimm ein Buch - Bring ein Buch!\"",
+            "name": "Bücherzelle",
+            "opening_hours": "24/7",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3029137,
+                52.6356253
+            ],
+            "type": "Point"
+        },
+        "id": "node/2270319509",
+        "properties": {
+            "@id": "node/2270319509",
+            "amenity": "library",
+            "name": "Buddhistisches Haus",
+            "opening_hours": "Mo-Su 09:00-18:00"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.430304,
+                52.4838118
+            ],
+            "type": "Point"
+        },
+        "id": "node/2335161340",
+        "properties": {
+            "@id": "node/2335161340",
+            "amenity": "library",
+            "name": "Fahrschule Vatan",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4054661,
+                52.489882
+            ],
+            "type": "Point"
+        },
+        "id": "node/2402339489",
+        "properties": {
+            "@id": "node/2402339489",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "10961",
+            "addr:street": "Südstern",
+            "amenity": "library",
+            "email": "info@la-rayuela.de",
+            "name": "La Rayuela",
+            "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00",
+            "phone": "+49 (0)30 44013293",
+            "smoking": "no",
+            "website": "http://la-rayuela.typepad.com/",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3925754,
+                52.4965906
+            ],
+            "type": "Point"
+        },
+        "id": "node/2418683199",
+        "properties": {
+            "@id": "node/2418683199",
+            "amenity": "library",
+            "name": "Amerika-Gedenk-Bibliothek",
+            "wheelchair": "limited"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3248746,
+                52.5021314
+            ],
+            "type": "Point"
+        },
+        "id": "node/2479053622",
+        "properties": {
+            "@id": "node/2479053622",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "211",
+            "addr:postcode": "10719",
+            "addr:street": "Kurfürstendamm",
+            "addr:suburb": "Charlottenburg",
+            "amenity": "library",
+            "name": "Institut Français de Berlin, Bibliothèque",
+            "ref:isil": "DE-B452",
+            "wheelchair": "no"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4837445,
+                52.4681152
+            ],
+            "type": "Point"
+        },
+        "id": "node/2493364002",
+        "properties": {
+            "@id": "node/2493364002",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "274",
+            "addr:postcode": "12437",
+            "addr:street": "Kiefholzstraße",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Baumschulenweg",
+            "operator": "Stadtbibliothek Treptow-Köpenick",
+            "phone": "+49 30 5347165",
+            "website": "http://www.sb-tk.de/"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5282362,
+                52.4033255
+            ],
+            "type": "Point"
+        },
+        "id": "node/2571245538",
+        "properties": {
+            "@id": "node/2571245538",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "182",
+            "addr:postcode": "12524",
+            "addr:street": "Ortolfstraße",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Altglienicke im Bürgerhaus",
+            "phone": "+49 30 902976722"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3307097,
+                52.5103863
+            ],
+            "type": "Point"
+        },
+        "id": "node/2635177698",
+        "properties": {
+            "@id": "node/2635177698",
+            "alt_name": "BIB",
+            "amenity": "library",
+            "contact:website": "http://www.ub.tu-berlin.de/",
+            "name": "Universitätsbibliothek (BIB)"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3901691,
+                52.4860573
+            ],
+            "type": "Point"
+        },
+        "id": "node/2644700001",
+        "properties": {
+            "@id": "node/2644700001",
+            "amenity": "library",
+            "name": "Archiv der Jugendkulturen"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.7047745,
+                52.5212779
+            ],
+            "type": "Point"
+        },
+        "id": "node/2684057233",
+        "properties": {
+            "@id": "node/2684057233",
+            "amenity": "library",
+            "name": "Anna-Ditzen-Bibliothek",
+            "opening_hours": "Mo 10:00-12:00,13:00-17:00; Tu 10:00-12:00,13:00-19:00; Th 09:00-12:00,13:00-17:00; Fr 10:00-12:00,13:00-18:00",
+            "phone": "+49 3342 80435",
+            "website": "http://www.bibliothek-neuenhagen.de/",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.4295895,
+                52.29252
+            ],
+            "type": "Point"
+        },
+        "id": "node/2733237803",
+        "properties": {
+            "@id": "node/2733237803",
+            "amenity": "library",
+            "name": "Bibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.7525783,
+                52.5233124
+            ],
+            "type": "Point"
+        },
+        "id": "node/2755893345",
+        "properties": {
+            "@id": "node/2755893345",
+            "amenity": "library"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5749091,
+                52.5766074
+            ],
+            "type": "Point"
+        },
+        "id": "node/2769376889",
+        "properties": {
+            "@id": "node/2769376889",
+            "amenity": "library"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3765857,
+                52.5266642
+            ],
+            "type": "Point"
+        },
+        "id": "node/2777497901",
+        "properties": {
+            "@id": "node/2777497901",
+            "amenity": "library",
+            "name": "Patientenbibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.1023131,
+                52.4043695
+            ],
+            "type": "Point"
+        },
+        "id": "node/2781114881",
+        "properties": {
+            "@id": "node/2781114881",
+            "amenity": "library",
+            "source": "http://www.aip.de/de/institut/locations/bilder-rundgang-babelsberg/aip-campus.pdf"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.1780019,
+                52.5499724
+            ],
+            "type": "Point"
+        },
+        "id": "node/2802477601",
+        "properties": {
+            "@id": "node/2802477601",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.5263249,
+                52.6384606
+            ],
+            "type": "Point"
+        },
+        "id": "node/2900627200",
+        "properties": {
+            "@id": "node/2900627200",
+            "addr:city": "Panketal OT Schwanebeck",
+            "addr:country": "DE",
+            "addr:housenumber": "2",
+            "addr:postcode": "16341",
+            "addr:street": "Genfer Platz",
+            "amenity": "library",
+            "name": "Bibliothek Panketal",
+            "operator": "Gemeinde Panketal"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.7276159,
+                52.567913
+            ],
+            "type": "Point"
+        },
+        "id": "node/2960571181",
+        "properties": {
+            "@id": "node/2960571181",
+            "addr:city": "Altlandsberg",
+            "addr:country": "DE",
+            "addr:housenumber": "1",
+            "addr:postcode": "15345",
+            "addr:street": "Krummenseestraße",
+            "amenity": "library",
+            "opening_hours": "Mo 14:00-18:00; Tu 13:00-16:00; Th 14:00-19:00",
+            "operator": "Stadt Altlandsberg",
+            "phone": "+49 33438 64414",
+            "website": "http://bibliothek.altlandsberg.de",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.2869983,
+                52.5376369
+            ],
+            "type": "Point"
+        },
+        "id": "node/2967242033",
+        "properties": {
+            "@id": "node/2967242033",
+            "addr:city": "Berlin",
+            "addr:country": "DE",
+            "addr:housenumber": "18",
+            "addr:postcode": "13627",
+            "addr:street": "Halemweg",
+            "amenity": "library",
+            "name": "Stadtteilbibliothek Halemweg",
+            "wheelchair": "yes"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.6351617,
+                52.7664852
+            ],
+            "type": "Point"
+        },
+        "id": "node/2980280623",
+        "properties": {
+            "@id": "node/2980280623",
+            "addr:city": "Biesenthal",
+            "addr:postcode": "16359",
+            "addr:street": "August-Bebel-Straße",
+            "amenity": "library",
+            "name": "Stadtbibliothek Biesenthal",
+            "operator": "Biesenthal",
+            "phone": "+49 3337 451 007",
+            "website": "http://biesenthal.de/?p=bi,bib.htm"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.390701,
+                52.871548
+            ],
+            "type": "Point"
+        },
+        "id": "node/3022333833",
+        "properties": {
+            "@id": "node/3022333833",
+            "amenity": "library",
+            "name": "Stadtbibliothek"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                13.3084823,
+                52.355261
+            ],
+            "type": "Point"
+        },
+        "id": "node/3036752005",
+        "properties": {
+            "@id": "node/3036752005",
+            "amenity": "library"
+        },
+        "type": "Feature"
+    }
+]
