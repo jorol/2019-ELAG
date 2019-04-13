@@ -267,10 +267,10 @@ if exists(dc_contributor)
         remove_field(lookup)
     end
 end
+```
 
 ### Run this fix in combination with the `marc2dc.fix` and check the new element `dct_contributor`
 
 ```
 $ catmandu convert MARC to YAML --fix marc2dc.fix --fix lookup_viaf.fix < perl_books.mrc
-`` 
 ```
