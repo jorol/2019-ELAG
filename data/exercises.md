@@ -97,7 +97,7 @@ $ catmandu convert MARC to CSV --fields tag,subf --fix 'copy_field(record.6.0,ta
 ### Extract all titles (MARC 245, non repeatable) from the collection `perl_books.mrc`: 
 
 ```
-$ catmandu convert MARC to CSV --fields title --fix 'marc_map(245a,dc_title)' < perl_books.mrc
+$ catmandu convert MARC to CSV --fields title --fix 'marc_map(245a,title)' < perl_books.mrc
 ``` 
 
 ### Extract all personal names (MARC 700, repeatable) from the collection `perl_books.mrc` and count them: 
