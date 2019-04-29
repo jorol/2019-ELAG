@@ -113,7 +113,7 @@ How many books have more than 3 contributors?
 ### Extract the language codes from the MARC collection `perl_books.mrc` and look them up in the dictionary `dict_languages.csv`: 
 
 ```
-$ catmandu convert MARC to YAML --fix 'marc_map(008/35-37,dc_language);lookup(dc_language,dict_languages.csv)' < perl_books.mrc
+$ catmandu convert MARC to YAML --fix 'marc_map(008/35-37,dc_language);lookup(dc_language,dict_languages.csv);remove_field(record)' < perl_books.mrc
 $ catmandu convert MARC to CSV --fields dc_language --header 0 --fix 'marc_map(008/35-37,dc_language);lookup(dc_language,dict_languages.csv)' < perl_books.mrc | sort | uniq -c
 ```
 
