@@ -133,7 +133,7 @@ How many records validate against the default schema?
 $ less validate.fix
 $ catmandu convert -v MARC to Null --var filename=non_valid \
 --fix validate.fix < perl_books.mrc
-$ less non_valid.json
+$ less non_valid.jsonl
 $ less non_valid.mrk
 ```
 
