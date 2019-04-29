@@ -66,6 +66,8 @@ What's the name of the journal?
 $ catmandu convert getJSON --from 'http://lobid.org/organisations/search?q=location.address.addressLocality%3ABerlin&format=json' to YAML
 ```
 
+Use the `--proxy 'http://proxy.sbb.spk-berlin.de:3128'` option on the `getJSON` command, if you have trouble to reach lobid.org.
+
 How many libraries are located in Berlin?
 
 ## Exercise 2
