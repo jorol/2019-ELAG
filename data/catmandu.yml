@@ -10,7 +10,6 @@ store:
    package: MongoDB
    options:
     database_name: books
-store:
   cql:
     package: MongoDB
     options:
