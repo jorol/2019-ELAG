@@ -478,10 +478,10 @@ $last     - Syntactic sugar for index '-1' (the tail of the array)
 # {}
 add_field(dc_contributor.$append,"Wall, Larry")
 # { "dc_contributor" : [ "Wall, Larry" ] }
-add_field(dc_contributor.$prepend,"Randal L. Schwartz")
-# { "dc_contributor" : [ "Randal L. Schwartz", "Wall, Larry" ] }
-set_field(dc_contributor.$last,"Tom Phoenix")
-# { "dc_contributor" : [ "Randal L. Schwartz", "Tom Phoenix" ] }
+add_field(dc_contributor.$prepend,"Schwartz, Randal L.")
+# { "dc_contributor" : [ "Schwartz, Randal L.", "Wall, Larry" ] }
+set_field(dc_contributor.$last,"Phoenix, Tom")
+# { "dc_contributor" : [ "Schwartz, Randal L.", "Phoenix, Tom" ] }
 remove_field(dc_contributor.*)
 # {"dc_contributor" : []}
 
@@ -904,7 +904,7 @@ class: middle
 ```
 $ catmandu export MongoDB --database_name 'libraries' \
 --query '{"id" : "node/775814877"}' to YAML
-$ catmandu xport MongoDB --database_name 'libraries' \
+$ catmandu export MongoDB --database_name 'libraries' \
 --query '{"properties.addr:city" : "Berlin"}' to YAML
 ``` 
 
@@ -1235,7 +1235,7 @@ Github: http://github.com/LibreCat/Catmandu
 class: middle center
 <img src="img/xkcd_man_page.png" alt="Catmandu RDF" height="550">
 
-.left[<small>Comic by [Randall Munroe](http://xkcd.com/1692/), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/) </small>]
+<small>Comic by [Randall Munroe](http://xkcd.com/1692/), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/) </small>
 
     </textarea>
     <script src="js/remark.js"></script>
