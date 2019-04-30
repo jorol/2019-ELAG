@@ -276,3 +276,5 @@ end
 ```
 $ catmandu convert MARC to YAML --fix marc2dc.fix --fix lookup_viaf.fix < perl_books.mrc
 ```
+
+Use the `proxy: 'http://proxy.sbb.spk-berlin.de:3128'` option on the `get_json` fix, if you have trouble to reach VIAF.
