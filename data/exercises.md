@@ -160,13 +160,13 @@ $ mongo
 ### Export all books published before 2000.
 
 ```
-$ catmandu export -v MongoDB --database_name perl_books --query '{"dc_date": {"$lt":"2000"}}' to YAML < perl_books.mrc
+$ catmandu export -v MongoDB --database_name perl_books --query '{"dc_date": {"$lt":"2000"}}' to YAML
 ```
 
 ### Export all books written by 'Wall, Larry'.
 
 ```
-$ catmandu export -v MongoDB --database_name perl_books --query '{"dc_contributor":"Wall, Larry"}' to YAML < perl_books.mrc
+$ catmandu export -v MongoDB --database_name perl_books --query '{"dc_contributor":"Wall, Larry"}' to YAML
 ```
 
 ### Create a CQL mapping for the data in the MongoDB:
