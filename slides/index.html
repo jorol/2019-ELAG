@@ -23,7 +23,7 @@ class: middle
 - Catmandu::CLI
 - DSL
   - Catmandu::Fix
-  - Catmandu::Fix::marc_map
+  - Catmandu::Fix::marc_map & Catmandu::Fix::marc_spec
   - Catmandu::Fix::Condition
 - Catmandu::Store & CQL
 - Reconciliation with Catmandu::Fix::getJSON
@@ -689,13 +689,17 @@ marc_map(FIELD[IND1IND2]SUBFIELD+/POSITION-POSITION, \
 MAPPING, OPTIONS)
 ```
 
-
+```no-highlight
+marc_spec(MARCSPEC, MAPPING, OPTIONS)
+```
+      
 ---
 class: middle
 ## marc_map - field
 
 ```
 marc_map(001,dc_identifier)
+marc_spec(001,dc_identifier)
 # {"dc_identifier":"022361960"}
 ```
 
@@ -705,8 +709,13 @@ class: middle
 
 ```
 marc_map(008/35-37,dc_language)
+marc_spec(008/35-37,dc_language)
 # {"dc_language":"eng"}
 ```
+
+```
+marc_spec('245$a{008/35-37=\eng}',dc_title)
+``` 
 
 ---
 class: middle
@@ -715,6 +724,16 @@ class: middle
 ```no-highlight
 marc_map('024[8,0]a',dc_identifier)
 # {"dc_identifier":"BVBTBV042038872"}
+```
+
+```no-highlight
+marc_spec('024$a{024^1=\8}{024^2=\0}',dc_identifier)
+# {"dc_identifier":"BVBTBV042038872"}
+```
+
+```no-highlight
+marc_spec('024^1',indicator1)
+# {"indicator1":"8"}
 ```
 
 ---
@@ -736,7 +755,16 @@ class: middle
 
 ```
 marc_map(650a,dc_subject.$append)
-# {"dc_subject":[ "Perl","Perl 5","Programmierung","XML"]}
+# {"dc_subject":["Perl","Perl 5","Programmierung","XML"]}
+```
+
+```
+marc_spec('650[0]$a',dc_subject)
+# {"dc_subject": "Perl"}
+marc_spec('650[#]$a',dc_subject)
+# {"dc_subject": "XML"}
+marc_spec('650[#-1]$a',dc_subject.$append)
+# {"dc_subject":["Programmierung","XML"]}
 ```
 
 ---
@@ -781,6 +809,8 @@ https://github.com/LibreCat/Catmandu-MARC/wiki/Mapping-rules
 https://metacpan.org/pod/distribution/Catmandu-MARC/lib/Catmandu/MARC/Tutorial.pod
 
 http://librecat.org/Catmandu/#example-fix-script
+
+http://marcspec.github.io/MARCspec/marc-spec.html
 
 ---
 class: middle
