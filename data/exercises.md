@@ -3,10 +3,10 @@
 Download and extract project files:
 
 ```terminal
-    $ cd /home/catmandu/
-    $ wget http://jorol.de/data/2019-elag.zip
-    $ unzip 2019-elag.zip
-    $ cd 2019-elag
+$ cd /home/catmandu/
+$ wget http://jorol.de/data/2019-elag.zip
+$ unzip 2019-elag.zip
+$ cd 2019-elag
 ```
 
 ## Exercise 1

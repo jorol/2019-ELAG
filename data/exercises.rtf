@@ -1,0 +1,178 @@
+{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Exercises\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Download and extract project files:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ cd /home/catmandu/\line
+$ wget http://jorol.de/data/2019-elag.zip\line
+$ unzip 2019-elag.zip\line
+$ cd 2019-elag\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Exercise 1\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Analyze and convert {\f1 neukoelln.csv} to different formats like JSON, XLSX & YAML:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 # analyze the CSV file\line
+$ head neukoelln.csv\line
+# convert CSV to different formats\line
+$ catmandu convert CSV to JSON < neukoelln.csv\line
+$ catmandu convert CSV to XLSX --file neukoelln.xlsx < neukoelln.csv\line
+$ catmandu convert CSV to YAML < neukoelln.csv\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Extract the column {\f1 geschlecht} from {\f1 neukoelln.xlsx} and count the different genders:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert XLSX to CSV --fields geschlecht < neukoelln.xlsx | sort | uniq -c\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Extract the legal representatives {\f1 legalResp} from the EU transparency register {\f1 eu-transparency-register.xml} and flatten the data structure:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 # analyze the XML file\line
+$ less eu-transparency-register.xml\line
+# extract <legalResp> elements \line
+$ catmandu convert XML --path '//legalResp' to YAML < eu-transparency-register.xml\line
+# flatten the data structure and report number of items\line
+$ catmandu convert -v XML --path '//legalResp' to TSV --fix 'collapse()' < eu-transparency-register.xml\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 How many representatives are registered?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Create a (sub-)field statistic for the MARC collection {\f1 perl_books.mrc} and save as XLSX file:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert MARC to Breaker --handler marc < perl_books.mrc > perl_books.breaker\line
+$ catmandu breaker perl_books.breaker\line
+$ catmandu breaker --as TSV perl_books.breaker > perl_books_stats.tsv\line
+$ less perl_books_stats.tsv\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Name the most common fields.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Convert the MARC collection {\f1 perl_books.mrc} to the human-readable serialization MARCMaker:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert MARC to MARC --type MARCMaker < perl_books.mrc > perl_books.mrk\line
+$ less perl_books.mrk\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Describe the data format.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Query the ZDB SRU interface (http://services.dnb.de/sru/zdb?operation=explain&version=1.1) for the ISSN \u8216'1940-5758\u8217':\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert SRU --base  http://services.dnb.de/sru/zdb --recordSchema oai_dc --parser simple --query 'iss=1940-5758' to YAML\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 What\u8217's the name of the journal?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Get all libraries of Berlin via the lobid-organisation (http://lobid.org) JSON API:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert getJSON --from 'http://lobid.org/organisations/search?q=location.address.addressLocality%3ABerlin&format=json' to YAML\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Use the {\f1 --proxy 'http://proxy.sbb.spk-berlin.de:3128'} option on the {\f1 getJSON} command, if you have trouble to reach lobid.org.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 How many libraries are located in Berlin?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Exercise 2\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Analyze the dataset {\f1 libraries.json} and extract all library names and ISIL using the JSONPath dot notation:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 # analyze the JSON file\line
+$ less libraries.json\line
+# extract all names and ISIL\line
+$ catmandu convert JSON to CSV --fields name,isil --fix 'copy_field(properties.name,name);copy_field("properties.ref:isil",isil)' < libraries.json\line
+# get only libraries with an ISIL\line
+$ catmandu convert JSON to CSV --fields name,isil --fix 'copy_field(properties.name,name);copy_field("properties.ref:isil",isil);select exists(isil)' < libraries.json\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 How many of the libraries have an ISIL?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Analyze internal data structure of MARC records in Catmandu. Extract the tag of the 6th field and the value of the 1th subfield.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 # analyze the MARC file\line
+$ catmandu convert MARC to YAML < perl_books.mrc\line
+# extract tag and first subfield value from the 6th field\line
+$ catmandu convert MARC to CSV --fields tag,subf --fix 'copy_field(record.6.0,tag);copy_field(record.6.4,subf)' < perl_books.mrc\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Extract all titles (MARC 245, non repeatable) from the collection {\f1 perl_books.mrc}:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert MARC to CSV --fields title --fix 'marc_map(245a,title)' < perl_books.mrc\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Extract all personal names (MARC 700, repeatable) from the collection {\f1 perl_books.mrc} and count them:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert MARC to YAML --fix 'marc_map(700a,dc_contributor,split:1);remove_field(record)' < perl_books.mrc\line
+$ catmandu convert MARC to CSV --fields dc_contributor --fix 'marc_map(700a,dc_contributor,split:1);count(dc_contributor)' < perl_books.mrc\line
+$ catmandu convert MARC to CSV --header 0 --fields dc_contributor --fix 'marc_map(700a,dc_contributor,split:1);count(dc_contributor)' < perl_books.mrc | sort | uniq -c\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 How many books have more than 3 contributors?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Extract the language codes from the MARC collection {\f1 perl_books.mrc} and look them up in the dictionary {\f1 dict_languages.csv}:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert MARC to YAML --fix 'marc_map(008/35-37,dc_language);lookup(dc_language,dict_languages.csv);remove_field(record)' < perl_books.mrc\line
+$ catmandu convert MARC to CSV --fields dc_language --header 0 --fix 'marc_map(008/35-37,dc_language);lookup(dc_language,dict_languages.csv)' < perl_books.mrc | sort | uniq -c\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 How many books have no language code?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Select records which conform the default MARC schema:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert -v MARC to MARC --type MARCMaker --fix 'select valid(.,MARC)' < perl_books.mrc\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 How many records validate against the default schema?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Export non valid records and their error messages:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ less validate.fix\line
+$ catmandu convert -v MARC to Null --var filename=non_valid \\\line
+--fix validate.fix < perl_books.mrc\line
+$ less non_valid.jsonl\line
+$ less non_valid.mrk\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 What is the most common error?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Exercise 3\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Convert the MARC collection {\f1 perl_books.mrc} to Dublin Core with the fix {\f1 marc2dc.fix}:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ head -n 100 marc2dc.fix\line
+$ catmandu convert MARC to YAML --fix marc2dc.fix --pretty 1 < perl_books.mrc\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Convert the MARC collection {\f1 perl_books.mrc} to Dublin Core with the fix {\f1 marc2dc.fix} and import it to MongoDB\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu import -v MARC to MongoDB --database_name perl_books --fix marc2dc.fix < perl_books.mrc\line
+$ mongo\line
+> use perl_books\line
+> db.data.find()\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Export all books published before 2000.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu export -v MongoDB --database_name perl_books --query '\{"dc_date": \{"$lt":"2000"\}\}' to YAML\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Export all books written by \u8216'Wall, Larry\u8217'.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu export -v MongoDB --database_name perl_books --query '\{"dc_contributor":"Wall, Larry"\}' to YAML\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Create a CQL mapping for the data in the MongoDB:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 nano catmandu.yml\line
+---\line
+store:\line
+  cql:\line
+    package: MongoDB\line
+    options:\line
+      database_name: perl_books\line
+      bags:\line
+        data:\line
+          cql_mapping:\line
+            default_index: all\line
+            indexes:\line
+              author:\line
+                op:\line
+                  'any': true\line
+                  'all': true\line
+                  '=': true\line
+                  'exact': true\line
+                field: 'dc_contributor'\line
+              subject:\line
+                op:\line
+                  'any': true\line
+                  'all': true\line
+                  '=': true\line
+                  'exact': true\line
+                field: 'dc_subject'\line
+              year:\line
+                op:\line
+                  'any': true\line
+                  'all': true\line
+                  '=': true\line
+                  '>': true\line
+                  '>=': true\line
+                  '<': true\line
+                  '<=': true\line
+                  'exact': true\line
+                field: 'dc_date'\line
+...\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Make an CQL query for all books written by {\f1 Christiansen}:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu export -v cql --cql-query 'author all Christiansen' to YAML\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Make an CQL query for all books published after {\f1 2000}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu export -v cql --cql-query 'year > 2000' to YAML\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Make an CQL query for all books belongs to DDC class {\f1 005}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu export -v cql --cql-query 'subject any 005' to YAML\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Excercise 4\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Create a new Fix script {\f1 lookup_viaf.fix} to match {\f1 dc_contributor} names against the VIAF API.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ nano lookup_viaf.fix\line
+# VIAF API https://platform.worldcat.org/api-explorer/apis/VIAF\line
+\line
+# only if contributor exists\line
+if exists(dc_contributor)\line
+\line
+    # iterate over all contributor values\line
+    # varibale 'current' is the current contributor\line
+    do list(path:dc_contributor, var:current)\line
+\line
+        # a lookup.query variable saves the current name\line
+        copy_field(current,lookup.query)\line
+\line
+        # let Catmandu make the request to JSON API and store results in lookup.viaf variable\line
+        get_json("http://viaf.org/viaf/AutoSuggest?query=\{query\}", path: lookup.viaf, vars: lookup)\line
+\line
+        # on success lookup.viaf.result should be a list \line
+        if exists(lookup.viaf.result.0)\line
+\line
+            # check if we got a satisfying score\line
+            if greater_than(lookup.viaf.result.0.score,1000)\line
+\line
+                # prepend base URL to VIAF ID\line
+                prepend(lookup.viaf.result.0.viafid,'https://viaf.org/viaf/')\line
+\line
+                # append VIAF URI to a new dct_contributor field\line
+                copy_field(lookup.viaf.result.0.viafid,dct_contributor.$append)\line
+            end       \line
+        end\line
+\line
+        # delete temporary lookup variable\line
+        remove_field(lookup)\line
+    end\line
+end\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Run this fix in combination with the {\f1 marc2dc.fix} and check the new element {\f1 dct_contributor}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 $ catmandu convert MARC to YAML --fix marc2dc.fix --fix lookup_viaf.fix < perl_books.mrc\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Use the {\f1 proxy: 'http://proxy.sbb.spk-berlin.de:3128'} option on the {\f1 get_json} fix, if you have trouble to reach VIAF.\par}
+}
