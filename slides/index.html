@@ -695,7 +695,7 @@ marc_spec(MARCSPEC, MAPPING, OPTIONS)
       
 ---
 class: middle
-## marc_map - field
+## marc_* - field
 
 ```
 marc_map(001,dc_identifier)
@@ -705,7 +705,7 @@ marc_spec(001,dc_identifier)
 
 ---
 class: middle
-## marc_map - part of field
+## marc_* - part of field
 
 ```
 marc_map(008/35-37,dc_language)
@@ -719,7 +719,7 @@ marc_spec('245$a{008/35-37=\eng}',dc_title)
 
 ---
 class: middle
-## marc_map - indicator
+## marc_* - indicator
 
 ```no-highlight
 marc_map('024[8,0]a',dc_identifier)
@@ -738,7 +738,7 @@ marc_spec('024^1',indicator1)
 
 ---
 class: middle
-## marc_map - subfields and options
+## marc_* - subfields and options
 
 ```
 marc_map(245ab,dc_title,join:' ')
@@ -751,7 +751,7 @@ marc_map(245ba,dc_title,split:1,pluck:1)
 
 ---
 class: middle
-## marc_map - repeatable fields
+## marc_* - repeatable fields
 
 ```
 marc_map(650a,dc_subject.$append)
@@ -769,7 +769,7 @@ marc_spec('650[#-1]$a',dc_subject.$append)
 
 ---
 class: middle
-## marc_map - repeatable subfields
+## marc_* - repeatable subfields
 
 ```
 marc_map(6500,authority_control_number,split:1)
