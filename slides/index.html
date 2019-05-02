@@ -745,11 +745,12 @@ class: middle
 
 ```
 marc_map(6500,authority_control_number,split:1)
-# {"authority_control_number":["(DE-601)245463658","(DE-588)4506116-6",\
-# "(DE-601)123519713","(DE-588)4307836-9","(DE-601)105599522","(DE-588)4144277-5"]}
+# {"authority_control_number":["(DE-601)245463658",
+# "(DE-588)4506116-6","(DE-601)123519713","(DE-588)4307836-9",
+# "(DE-601)105599522","(DE-588)4144277-5"]}
 marc_map(6500,authority_control_number,split:1,nested_arrays:1)
-# {"authority_control_number":[["(DE-601)245463658","(DE-588)4506116-6"],\
-# ["(DE-601)123519713", "(DE-588)4307836-9"],\
+# {"authority_control_number":[["(DE-601)245463658",
+# "(DE-588)4506116-6"],["(DE-601)123519713", "(DE-588)4307836-9"],
 # ["(DE-601)105599522","(DE-588)4144277-5"]]}
 ```
 
@@ -1209,8 +1210,35 @@ class: middle
 
 ```
 
+---
+class: middle
+## Catmandu custom modules
 
+```perl 
+package Catmandu::Fix::foo;
+ 
+use Catmandu::Sane;
+use Moo;
+use Catmandu::Fix::Has;
+ 
+# required parameter 1
+has msg   => (fix_arg => 1);
+# optional parameter 'count' with default value 4
+has count => (fix_opt => 1, default => sub { 4 });
+ 
+sub fix {
+    my ($self,$data) = @_;
+    $data->{foo} = $self->msg x $self->count;
+    $data;
+}
+ 
+1;
+```
 
+```
+# will add 'foo' = 'barbar'
+foo('bar',count:2)
+```
 ---
 class: middle
 ## Questions & Discussion
